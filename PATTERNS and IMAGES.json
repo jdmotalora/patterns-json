@@ -1,0 +1,1232 @@
+{
+    "nodos": [
+        {
+            "id": "Wastelands for urban wildlife",
+            "numero": 22,
+            "escala": "Meso",
+            "contexto": "City",
+            "problema": "Urban wastelands present an opportunity to create needed urban wildlife habitats where people can experience and connect with nature. Research indicates that wastelands often support rich floral diversity and provide habitats for various animal species adapted to the unique conditions found there. In addition, wastelands may have significant conservation value due to the presence of wetlands, riparian zones, and other important ecosystems in the urban matrix. By serving as stepping stones linking patches of habitat, wastelands can play a vital role in enriching the local ecological network and countering habitat fragmentation driven by urban development. In environments deficient in greenspace and natural habitats, reclaimed wastelands can help fill critical gaps.",
+            "solucion": "Identify abandoned sites in your neighborhood that still have spontaneous vegetation, wetlands, or other valuable natural features like rocky outcrops. Then, collectively evaluate and map these sites based on specific criteria: Ecological value (existing native vegetation, wildlife diversity, presence of rare species); Social value (proximity to schools or homes, visibility from streets, safety, and accessibility); Contribution to urban green infrastructure (connectivity to parks or other green spaces). With this multi-criteria assessment, choose the sites with the greatest potential to restore as an urban wildlife area through a community-led regeneration project. Main actions would include cleaning trash while protecting diverse vegetation, creating inclusive access points without over-intervening, and integrating the site visually and functionally with other nearby public green spaces through planting, eco-trails, etc.",
+            "grafico": "https://drive.google.com/file/d/1-yY06JDJZKZbS6tc9qDTLft_Apgxcoyl/view?usp=drive_link",
+            "referencias": [
+                "[1] HERBST H, HERBST V. The development of an evaluation method using a geographic information system to determine the importance of wasteland sites as urban wildlife areas[J/OL]. Landscape and Urban Planning, 2006, 77(1-2): 178-195. https://doi.org/10.1016/j.landurbplan.2005.02.005.",
+                "[2] LANGER A. Diversity and Design on a Former Freight Rail-Yard[M/OL]//ITO K. Urban Biodiversity and Ecological Design for Sustainable Cities. Tokyo: Springer Japan, 2021: 19-34[2024-02-12]. http://link.springer.com/10.1007/978-4-431-56856-8_2."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Biodiversity patches"
+                ],
+                "linkdown": [
+                    "Native plants for species diversity",
+                    "Strategic placement of resilient trees",
+                    "Preserving dead trees",
+                    "Butterfly garden",
+                    "Permeable surfaces",
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires",
+                    "Urban space for human-animal"
+                ]
+            },
+            "urban_ecology_principles": [
+                "House plots (lots), street blocks, neighborhoods, cities, and urban regions support relatively different vegetation and associated animals at each spatial scale.",
+                "Plant and animal biodiversity is typically high in neglected sites, and (excluding zoos and botanical gardens) decreases with more design, planning, management, and/or maintenance."
+            ]
+        },
+        {
+            "id": "Vegetation for noise attenuation",
+            "numero": 34,
+            "escala": "Meso",
+            "contexto": "city",
+            "problema": "Excessive noise is a form of acoustic pollution and environmental disruption in urban areas. Its effects are expected to intensify, especially in urbanized zones, due to urban growth and high noise from vehicular traffic. This noise can disrupt animal communication by masking crucial signals for mating, danger alerts, territorial defense, reproduction, nurturing offspring, and hunting. Each species relies on specific frequencies that can be overwhelmed by human-made noise, impacting survival and reproduction. The most noise-sensitive species may be displaced from natural habitats, altering ecological communities. Furthermore, chronic noise acts as a stressor, weakening animals and making them susceptible to disease and predation, threatening population survival. For humans, prolonged exposure causes hearing loss, stress, cardiovascular issues, sleep problems, diminished work and academic performance, and other health effects. Environmental noise decreases residential quality of life, interferes with recreation and culture. Therefore, mitigating urban acoustic pollution is a priority to preserve health and well-being for both wildlife and human communities.",
+            "solucion": "To maximize noise attenuation capacity, it is essential to recognize the potential not only of forests but also of other types of cover, such as grasslands and herbaceous vegetation. A planning approach that includes compact and connected green areas, strategically located near major noise sources like transportation networks, is proposed. This arrangement not only helps mitigate noise generation and propagation in its early stages but also promotes an environment with fewer reflective urban surfaces. In urban planning, it is crucial to avoid the loss of existing vegetation to conserve its valuable noise attenuation capacity. Additionally, seasonal variations in this capacity depending on vegetation type and soil cover should be considered. For example, leaf litter and vegetation roots contribute to creating a more porous and soft soil, allowing better absorption and dispersion of sound waves, especially at low frequencies. Grasslands and non-woody plants, such as herbs and grasses, also play a significant role by providing a matrix of stems that disperses sound. These elements can be complemented by trees and shrubs to further enhance sound absorption. A 'decentralized' urban planning pattern is suggested, including small, dispersed urban nodes within the landscape, with interconnected green areas occupying the intermediate spaces.",
+            "grafico": "https://drive.google.com/file/d/1H_iIE6EZLmsI7F3dTZxhCjnfnfCXB2NU/view?usp=drive_link",
+            "referencias": [
+                "[1] SAKIEH Y, JAAFARI S, AHMADI M, et al. Green and calm: Modeling the relationships between noise pollution propagation and spatial patterns of urban structures and green covers[J/OL]. Urban Forestry & Urban Greening, 2017, 24: 195-211. https://doi.org/10.1016/j.ufug.2017.04.008.",
+                "[2] GAUDON J M, MCTAVISH M J, HAMBERG J, et al. Noise attenuation varies by interactions of land cover and season in an urban/peri-urban landscape[J/OL]. Urban Ecosystems, 2022, 25(3): 811-818. https://doi.org/10.1007/s11252-021-01194-4.",
+                "[3] DUQUETTE C A, LOSS S R, HOVICK T J. A meta‐analysis of the influence of anthropogenic noise on terrestrial wildlife communication strategies[J/OL]. Journal of Applied Ecology, 2021, 58(6): 1112-1121. https://doi.org/10.1111/1365-2664.13880.",
+                "[4] ROSENHOUSE G. Sound barriers to enable open windows and integration in landscape[C/OL]//Eco-Architecture: Harmonisation between Architecture and Nature: 卷 1. The New Forest, UK: WIT Press, 2006: 331-340[2024-02-15]. http://library.witpress.com/viewpaper.asp?pcode=ARC06-033-1."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Urban space for human-animal",
+                    "Street tree biodiversity",
+                    "Garden connection",
+                    "Cemetery Biodiversity Conservation"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "24. Animals tolerate and communicate in endless urban noise—some loud, most low frequency."
+            ]
+        },
+        {
+            "id": "Urban ponds",
+            "numero": 11,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "Urban development has significantly damaged freshwater habitats, altering hydrological cycles. Urban ponds are among the most affected habitats, experiencing a notable decrease in biodiversity. This is due to various factors, such as the increase in impermeable surfaces, species invasion, habitat degradation, water pollution, overexploitation, and flow modifications. These alterations lead to problems like eutrophication, hypoxia, and the transport of metals and microplastics through runoff, among other significant changes in urban water bodies.",
+            "solucion": "Maintaining urban ponds is recommended, as they offer various ecosystem services and serve as both permanent and temporary habitats, acting as stepping stones during species migration. To ensure proper management of these ponds, it is suggested to avoid vertical walls that hinder amphibian movement, manage communities of submerged and emergent plants, maximize connectivity with other water bodies, and prevent the introduction of non-native species. Additionally, research has shown that urban retention ponds can effectively sediment de-icing salts, capture microplastics, and trap metals through the plants inhabiting them.",
+            "grafico": "https://drive.google.com/file/d/1mdIv7i6qrVcf46hFnM1ujZyqJZ_h_SeZ/view?usp=drive_link",
+            "referencias": [
+                "[1] HASSALL C. The ecology and biodiversity of urban ponds[J/OL]. WIREs Water, 2014, 1(2): 187-206. https://doi.org/10.1002/wat2.1014.",
+                "[2] NAYEB YAZDI M, SCOTT D, SAMPLE D J, et al. Efficacy of a retention pond in treating stormwater nutrients and sediment[J/OL]. Journal of Cleaner Production, 2021, 290: 125787. https://doi.org/10.1016/j.jclepro.2021.125787.",
+                "[3] LIU F, VIANELLO A, VOLLERTSEN J. Retention of microplastics in sediments of urban and highway stormwater retention ponds[J/OL]. Environmental Pollution, 2019, 255: 113335. https://doi.org/10.1016/j.envpol.2019.113335."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Hydrological networks",
+                    "Creation of artificial microhabitats"
+                ],
+                "linkdown": [
+                    "Permeable surfaces"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Stormwater runoff, which cleans urban surfaces and is piped or ditched to stream, pond, or wetland, causes pulses or fluctuations in water levels and pollutant concentrations.",
+                "Most local waterbodies have intensive human use and disturbance, considerable hard edge, and a quite limited littoral area of vegetation zones with rich aquatic fauna."
+            ]
+        },
+        {
+            "id": "Sodium vapor lamps",
+            "numero": 31,
+            "escala": "Micro",
+            "contexto": "city",
+            "problema": "Excessive lighting, along with the color and wavelength of light, poses a significant problem for urban ecosystem fauna and flora. Although lighting is essential, many current systems are not designed to mitigate their negative environmental impact. Light pollution and excessive night sky brightness are direct consequences of this issue.",
+            "solucion": "Replace white lights with lower impact lights such as sodium vapor where possible. Promote the use of sodium vapor lamps instead of halogen or LEDs since they have less impact on wildlife.",
+            "grafico": "https://drive.google.com/file/d/1nK3qwZ7yGHxsZZg6T8RfuI4wMsMo3G9b/view?usp=drive_link",
+            "referencias": [
+                "[1] MARTÍN B, PÉREZ H, FERRER M. Light-Emitting Diodes (LED): A Promising Street Light System to Reduce the Attraction to Light of Insects[J]. Diversity, 2021, 13(2): 89. https://doi.org/10.3390/d13020089.",
+                "[2] Kaushik, K., Nair, S., & Ahamad, A. (2022). Studying light pollution as an emerging environmental concern in India. Journal of Urban Management, 11(3), 392–405. https://doi.org/10.1016/j.jum.2022.05.012."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Plant barriers to dampen artificial light",
+                    "Advertising lighting",
+                    "Campaign on light pollution",
+                    "Street tree biodiversity",
+                    "Green Parking Lots",
+                    "Wastelands for urban wildlife",
+                    "Cemetery Biodiversity Conservation",
+                    "Buildings for biodiversity",
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Many terrestrial wildlife species are nocturnal, avoiding daytime people and traffic, and respond to diverse changing urban lights."
+            ]
+        },
+        {
+            "id": "Shielded luminaires",
+            "numero": 33,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "Improper lighting direction is a major contributor to light pollution and reduced energy efficiency. The incorrect positioning of luminaires and the lack of accessories to precisely control light distribution not only increase costs and light waste but also create glare. These issues have a detrimental effect on urban ecosystems and wildlife.",
+            "solucion": "1. Promote the use of shielded luminaires that direct light downwards and prevent skyward scatter. This would reduce problems like light glare. 2. Reduce the intensity of artificial nighttime lighting, especially near natural areas, to avoid disrupting the timing and structure of circadian rhythms of animals.",
+            "grafico": "https://drive.google.com/file/d/1VYprW1WYMJgtKx6wMr4SpJpYeVglN3yi/view?usp=drive_link",
+            "referencias": [
+                "[1] Bradsworth, N., White, J. G., Rendall, A. R., Carter, N., Whisson, D. A., & Cooke, R. (2022). Using thresholds to determine priorities for apex predator conservation in an urban landscape. Landscape and Urban Planning, 228, 104559. https://doi.org/10.1016/j.landurbplan.2022.104559.",
+                "[2] Kaushik, K., Nair, S., & Ahamad, A. (2022). Studying light pollution as an emerging environmental concern in India. Journal of Urban Management, 11(3), 392–405. https://doi.org/10.1016/j.jum.2022.05.012."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Plant barriers to dampen artificial light",
+                    "Advertising lighting",
+                    "Campaign on light pollution",
+                    "Street tree biodiversity",
+                    "Green Parking Lots",
+                    "Wastelands for urban wildlife",
+                    "Cemetery Biodiversity Conservation",
+                    "Buildings for biodiversity",
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Many terrestrial wildlife species are nocturnal, avoiding daytime people and traffic, and respond to diverse changing urban lights."
+            ]
+        },
+        {
+            "id": "Superblock for biodiversity",
+            "numero": 18,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "Numerous cities have encouraged car-centric development, which has greatly influenced urban planning and led to conflicts between livability and mobility. As a result, infrastructure has been built that occupies a substantial portion of developed areas, as well as urban and natural ecosystems. This has led to an increase in impermeable surfaces, air pollution, and noise levels. Furthermore, this development has diminished safety for pedestrians and wildlife, reduced the habitability of urban spaces, and fostered inactive and unsustainable lifestyles.",
+            "solucion": "Models that reduce vehicular infrastructure within neighborhoods and prioritize active transportation modes are highly recommended. Superblocks, life circle, and X-minute cities serve as prime examples of this approach. These models propose perimeter vehicular roads connected to the city's arterial routes, while dedicating interior lanes to active transportation. By creating public spaces that foster social interaction, these neighborhoods become more sustainable and promote healthier lifestyles. Moreover, such models enhance connectivity with green and blue infrastructure, thereby increasing opportunities for the movement and habitation of native species.",
+            "grafico": "https://drive.google.com/file/d/1Lovm-wdlP8kG0Yx_pwiZEowRPo6PZHJW/view?usp=drive_link",
+            "referencias": [
+                "[1] NIEUWENHUIJSEN M, DE NAZELLE A, PRADAS M C, et al. The Superblock model: A review of an innovative urban model for sustainability, livability, health and well-being[J/OL]. Environmental Research, 2024, 251: 118550. https://doi.org/10.1016/j.envres.2024.118550.",
+                "[2] SCUDELLARI J, STARICCO L, VITALE BROVARONE E. Implementing the Supermanzana approach in Barcelona. Critical issues at local and urban level[J/OL]. Journal of Urban Design, 2020, 25(6): 675-696. https://doi.org/10.1080/13574809.2019.1625706.",
+                "[3] BOTH A, GUNN L, HIGGS C, et al. Achieving ‘Active’ 30 Minute Cities: How Feasible Is It to Reach Work within 30 Minutes Using Active Transport Modes?[J/OL]. ISPRS International Journal of Geo-Information, 2022, 11(1): 58. https://doi.org/10.3390/ijgi11010058."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Soil biodiversity"
+                ],
+                "linkdown": [
+                    "Buildings for biodiversity",
+                    "Architectural Programming",
+                    "Rain Gardens",
+                    "Light sensors",
+                    "Shielded luminaires",
+                    "Sodium vapor lamps",
+                    "Campaign on light pollution",
+                    "Permeable surfaces"
+                ]
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Strategic placement of resilient trees",
+            "numero": 36,
+            "escala": "Macro",
+            "contexto": "roads, parks, urban green areas",
+            "problema": "Urban areas tend to generate stressful environmental conditions for trees. Among the main factors are: the urban heat island effect leading to extreme temperatures and more frequent droughts; air pollution from vehicle and industrial emissions; paving and soil sealing causing compaction, waterlogging, and impermeabilization; and salinization from the use of de-icing salts on streets and sidewalks. In addition, other sources of stress include nutrient deficiencies, root damage, lesions on bark and branches, and lack of sunlight due to tall buildings. In response, various tree species have developed multiple tolerance strategies to cope with the increasing intensity of these urban environmental stressors.",
+            "solucion": "It is advised to choose native tree species already adapted to the local climate and demonstrated to be tolerant of common urban stressors, including drought, heat, pollution, and severe pruning. Strategic placement of resilient plant assemblages along park perimeters, green belts, and roadsides enables a stepwise transition from the most stress-enduring species sited in highly exposed areas to less tolerant varieties embedded within greenspaces. Actively managing stress-resilient trees as an interconnected system is critical for assisting their gradual acclimatization to urban settings through judicious pruning, enhancing soil breathability, adequate watering, integrated pest management, and other maintenance interventions. Additionally, promoting wide species diversity both along tree-lined streets and within parks can simultaneously bolster ecological facilitation amongst plants and boost systemic resilience against outbreaks of disease.",
+            "grafico": "https://drive.google.com/file/d/1HjZc6vJg2Xezyb1TSZFox5xM_vi7ZTVQ/view?usp=drive_link",
+            "referencias": [
+                "[1] DANIELSON S C, MASCIA R, METZGER M, et al. Stress-resistant trees are more common in urban than rural forests: A case study of Cleveland, Ohio’s natural parks[J/OL]. Urban Forestry & Urban Greening, 2023, 82: 127864. https://doi.org/10.1016/j.ufug.2023.127864.",
+                "[2] SJÖMAN H, BUSSE NIELSEN A. Selecting trees for urban paved sites in Scandinavia – A review of information on stress tolerance and its relation to the requirements of tree planners[J/OL]. Urban Forestry & Urban Greening, 2010, 9(4): 281-293. https://doi.org/10.1016/j.ufug.2010.04.001.",
+                "[3] LIU J, SLIK F. Are street trees friendly to biodiversity?[J/OL]. Landscape and Urban Planning, 2022, 218: 104304. https://doi.org/10.1016/j.landurbplan.2021.104304."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Wastelands for urban wildlife",
+                    "Tiny forest",
+                    "Cemetery Biodiversity Conservation",
+                    "Green Parking Lots",
+                    "Garden connection"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "5. Trees and shrubs, typically in straight lines along streets and roads, with associated animals are increasingly stressed by more traffic and diverse related pollutants."
+            ]
+        },
+        {
+            "id": "Plant barriers to dampen artificial light",
+            "numero": 20,
+            "escala": "Meso",
+            "contexto": "Streets",
+            "problema": "The lack of vegetation cover on streets and sidewalks reduces the environment's ability to mitigate light pollution. Green spaces, such as parks, gardens, and vegetation belts, act as natural buffers by absorbing and blocking excess artificial light.",
+            "solucion": "Strategically planted vegetation buffers absorb artificial glare from streets to sustain biodiverse environments. Native shrubs and trees with dense canopies naturally filter excess luminance, enabling surrounding species to retain natural nocturnal behaviors integral to thriving. Although nighttime light can be a stressor for plants, implementing best practices, such as reducing light trespass and using sensors, can help mitigate its negative effects.",
+            "grafico": "https://drive.google.com/file/d/1inxx_DntykWsqQbxhcpsaaiY9fkfxmVJ/view?usp=drive_link",
+            "referencias": [
+                "[1] ZHOU C, NAKAMURA A, SONG X, et al. Artificial Light at Night (ALAN) Influences Understory Plant Traits through Ecological Processes: A Two-Year Experiment in a Rubber Plantation in China[J]. Ecologies, 2023, 4(4): 704-713.",
+                "[2] FALCÓN J, TORRIGLIA A, ATTIA D, et al. Exposure to Artificial Light at Night and the Consequences for Flora, Fauna, and Ecosystems[J]. Frontiers in Neuroscience, 2020, 14: 602796."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Lighting restriction in natural areas"
+                ],
+                "linkdown": [
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Many terrestrial wildlife species are nocturnal, avoiding daytime people and traffic, and respond to diverse changing urban lights."
+            ]
+        },
+        {
+            "id": "Native plants for species diversity",
+            "numero": 35,
+            "escala": "Meso",
+            "contexto": "parks, green urban areas",
+            "problema": "When introduced in urban settings, exotic plant species can become invasive, displacing native species and reducing biodiversity. Their inclusion in urban green spaces may also disproportionately favor certain generalist animal species over more specialized ones. In general, these exotic plants do not provide the same resources, such as food and shelter, as native plant species to urban wildlife. Although some native animals may utilize resources from exotic plants, these do not match the habitat and foraging value provided by the native plant species they have co-evolved with. While not all exotic species generate negative impacts, increasing the proportion of native plant species in urban green spaces promotes higher biodiversity of native urban wildlife.",
+            "solucion": "It is recommended to increase the presence of native plant species in urban green spaces such as parks, gardens, common areas, and street trees. This is because native plants provide a broader range of resources for local wildlife compared to exotic species. Additionally, incorporating endangered or threatened native species is suggested to contribute to their conservation. This approach not only benefits urban biodiversity but also promotes the abundance and diversity of birds, insects, and other urban animals by increasing the proportion and density of these plants in parks and gardens. By opting for regional or local native vegetation, a more effective strategy is established to provide habitat and food for urban wildlife.",
+            "grafico": "https://drive.google.com/file/d/1Ml9yitsyDKO5L2hoKDhXDZThNn4mlEtv/view?usp=drive_link",
+            "referencias": [
+                "[1] LANDI S, TORDONI E, AMICI V, et al. Contrasting patterns of native and non-native plants in a network of protected areas across spatial scales[J]. Biodiversity and Conservation, 2020, 29(6): 2035-2053. https://doi.org/10.1007/s10531-020-01958-y.",
+                "[2] BERTHON K, THOMAS F, BEKESSY S. The role of ‘nativeness’ in urban greening to support animal biodiversity[J/OL]. Landscape and Urban Planning, 2021, 205: 103959. https://doi.org/10.1016/j.landurbplan.2020.103959."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Wastelands for urban wildlife",
+                    "Tiny forest",
+                    "Cemetery Biodiversity Conservation",
+                    "Green Parking Lots",
+                    "Garden connection"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Almost all rare native species seem doomed to local extinction due to concentrated human impacts, whereas rare nonnative species may disappear, persist, or spread."
+            ]
+        },
+        {
+            "id": "Hydrological networks",
+            "numero": 2,
+            "escala": "Macro",
+            "contexto": "city, region",
+            "problema": "Urban blue infrastructure faces several challenges, many of them stemming from climate change and city expansion. These include increased risks of flooding and drought. Additionally, water pollution occurs due to runoff carrying urban and industrial waste. There is also loss of natural water retention and infiltration capacity in soils due to surface sealing. Likewise, severe disruptions of the natural hydrological cycle are registered. Two critical situations are added: insufficient wastewater treatment and growing demand for water resources due to population growth. Additionally, in some cases, proper management and administration of blue infrastructure is hindered. This is due to the diversity of stakeholders involved, such as water authorities, landowners, and maintenance agencies, among others. This multiplicity of interests impedes consistent administration. On the other hand, numerous urban water bodies are seen mainly as a threat or problem due to the floods or diseases they can propagate. Because of this, there are pressures to bury or fill them, resulting in the loss of their ecological value. Most of these aquatic ecosystems are used as dumps, affecting their quality and associated wildlife.",
+            "solucion": "Blue infrastructure implementation in cities facilitates biodiversity conservation by establishing urban hydrological networks composed of interconnected small ponds or canals serving as dispersal corridors for aquatic fauna species. Additionally, restoring degraded aquatic ecosystems such as wetlands, riverbanks, and others within the city, ensuring adequate quality, flow, and vegetation, promotes their role as suitable habitats for various species. Blue infrastructure intended for flood control and water filtration can also provide secondary habitats like retention wetlands and filter strips, increasing refuge and resources for biodiversity. Supplementing it with riparian vegetation, adjacent green corridors, and wildlife crossings facilitates the movement and spread of associated flora and fauna. Incorporating criteria and infrastructure for fish migration in lotic river systems aims to preserve this biodiversity. Promoting responsible practices regarding water use and management minimizes impacts on aquatic biodiversity and wetlands. Finally, linking blue infrastructure with green infrastructure establishes broader, better-connected urban ecological networks, enhancing connectivity between the city's different natural habitats and areas.",
+            "grafico": "https://drive.google.com/file/d/1jlYTaaHm-kgaPrP2hKb42_o4w0G9oknt/view?usp=drive_link",
+            "referencias": [
+                "[1] WILLIAMS J B, JOSE R, MOOBELA C, et al. Residents’ perceptions of sustainable drainage systems as highly functional blue green infrastructure[J/OL]. Landscape and Urban Planning, 2019, 190: 103610. https://doi.org/10.1016/j.landurbplan.2019.103610.",
+                "[2] NGUYEN T T, MEURK C, BENAVIDEZ R, et al. The Effect of Blue-Green Infrastructure on Habitat Connectivity and Biodiversity: A Case Study in the Ōtākaro/Avon River Catchment in Christchurch, New Zealand[J/OL]. Sustainability, 2021, 13(12): 6732. https://doi.org/10.3390/su13126732."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Regional Ecological networks"
+                ],
+                "linkdown": [
+                    "Rain Gardens",
+                    "Artificial wetlands",
+                    "Artificial reefs",
+                    "Urban ponds",
+                    "Improving Lighting",
+                    "Lighting restriction in natural areas"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Many streams, ponds, and wetlands have lowered water levels in a wastewater sewage-system area, and are polluted in a septic-system area containing some defective systems.",
+                "Streams are commonly truncated, channelized, rock/concrete-lined, flashy, in low-flow condition, and/or lost into pipes, all of which limit fish and other aquatic species."
+            ]
+        },
+        {
+            "id": "Architectural Programming",
+            "numero": 27,
+            "escala": "Meso",
+            "contexto": "neighborhood",
+            "problema": "Cities are spaces where diverse species coexist, but urban planning often overlooks the needs of non-human species. This oversight has led to significant impacts on biodiversity and urban ecosystems, as well as conflicts between animals and humans. These conflicts include urban wildlife dependency on human-provided food, the endangerment of species, ecosystem degradation, the control of animals deemed as pests, and inadequate management of domestic animals. Furthermore, most cities worldwide lack designated spaces for the movement and interaction of different species and have an absence of urban infrastructure designed to meet the needs of wildlife.",
+            "solucion": "Architectural activity programs offer valuable information about the actions and users involved in a building. To better accommodate biodiversity, it is recommended that existing programs be revised to create spaces that consider the needs of non-human users. When designing new architectural programs, professionals should include multi-species activities that facilitate the integration of other urban-dwelling species, while respecting their rights. Furthermore, incorporating educational initiatives that promote the connection between species and the city is crucial for preventing conflicts among them. By including diverse species in architectural programs and urban planning, cities can ensure long-term benefits for both humans and the environment.",
+            "grafico": "https://drive.google.com/file/d/1BXLnaKOA0rovm62bpaqfSBUG_O4t3iRS/view?usp=drive_link",
+            "referencias": [
+                "[1] BEATLEY T, BEKOFF M. City Planning and Animals: Expanding Our Urban Compassion Footprint[M/OL]//BASTA C, MORONI S. Ethics, Design and Planning of the Built Environment. Dordrecht: Springer Netherlands, 2013: 185-195. https://link.springer.com/10.1007/978-94-007-5246-7_12.",
+                "[2] GUNNELL K, MURPHY B, WILLIAMS C. Design for biodiversity: a technical guide for new and existing buildings[M]. 2. ed. London: RIBA Publ, 2013.",
+                "[3] GROBMAN Y J, WEISSER W, SHWARTZ A, et al. Architectural Multispecies Building Design: Concepts, Challenges, and Design Process[J/OL]. Sustainability, 2023, 15(21): 15480. https://doi.org/10.3390/su152115480."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Buildings for biodiversity",
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": [
+                    "Cemetery Biodiversity Conservation",
+                    "Animal-assisted therapy"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Commercial and shopping areas, with concentrated goods, people, food, garbage, and other organic materials, sustain surrounding scavenger and pest populations.",
+                "Many pest insects genetically adapt to heavy pesticide use around kitchens, houses, restaurants, and food markets, as well as standing water."
+            ]
+        },
+        {
+            "id": "Animal-assisted therapy",
+            "numero": 28,
+            "escala": "Micro",
+            "contexto": "facilities",
+            "problema": "Correctional facilities, such as prisons and detention centers, and mental health institutions, including psychiatric hospitals and addiction rehabilitation centers, often lack natural elements that promote restorative justice or patient rehabilitation. In the specific case of prisons, green areas are usually considered a luxury rather than a rehabilitation mechanism. Spaces designed for access to the outdoors are generally limited to hardscapes or lawn areas devoid of fauna and intentional landscape design.",
+            "solucion": "Incorporating green spaces, sustainability programs, and animal-assisted interventions is recommended in correctional and mental health facilities. These initiatives promote health improvement, behavioral enhancement, and the development of emotional and vocational skills for individuals, while simultaneously benefiting ecosystems. Implementing carefully designed healing gardens within these facilities provides spaces for reflection, restoration, reconciliation, and even commemoration. Furthermore, interacting with animals has been shown to be beneficial in treating various conditions such as depression, schizophrenia, phobias, addiction issues, and violent behaviors.",
+            "grafico": "https://drive.google.com/file/d/1DUtfTRfwfkadtvi6hsB106M5-A08GWGS/view?usp=drive_link",
+            "referencias": [
+                "[1] STEVENS J L, TOEWS B, WAGENFELD A. Designing the Correctional Landscape: An Invitation to Landscape Architecture Professionals[J/OL]. Landscape Journal, 2018, 37(1): 55-72. https://doi.org/10.3368/lj.37.1.55.",
+                "[2] DIMITRIJEVIĆ I. Animal-assisted therapy--a new trend in the treatment of children and adults[J]. Psychiatria Danubina, 2009, 21(2): 236-241.",
+                "[3] JEWKES Y, MORAN D. The paradox of the ‘green’ prison: Sustaining the environment or sustaining the penal complex?[J/OL]. Theoretical Criminology, 2015, 19(4): 451-469. https://doi.org/10.1177/1362480615576270."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Architectural Programming"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Creation of artificial microhabitats",
+            "numero": 30,
+            "escala": "Meso",
+            "contexto": "Parks, buildings",
+            "problema": "Historically, urban planners and architects have seen animals as pests or threats to eradicate, not as species with which to coexist. This has led to attempts to eliminate them or disregard their habitat needs. Many native species are forced to search for new ecological niches, often within urban areas themselves. It is a complex issue, involving negative perceptions of these animals as well as building processes and urban renewal that ignore their requirements for habitats. The uncontrolled growth of cities has replaced the habitats of small vertebrates, birds, bats, and insects, while also displacing native species that used to inhabit these areas. Currently, urban 'wildlife' is reduced to pigeons, cockroaches, rats, among others. This loss of biodiversity and the resulting ecological imbalances adversely affect both animals and humans.",
+            "solucion": "The first step is to investigate which native species, like small vertebrates, birds, bats, and insects have been displaced in the area and what their habitat needs are. Then, biologists, veterinarians, and architects should be involved to understand in detail the temperature, humidity, material, nearby food, and other requirements specific to each species. With this information, strategic areas can be identified to reinsert these animals, such as parks, rooftops, and attics for bats and birds, community gardens to attract diverse pollinators like bees and butterflies, or building courtyards for lizards and small rodents. It is recommended to build customized microhabitats with local, eco-friendly, low-maintenance materials tailored to each group of species, whether insects, bats, birds, or small vertebrates. For example, bat boxes, bird houses, bug hotels made of wood, bamboo, adobe, and natural fibers. It is best if the community itself builds these modular and replicable microhabitats, with participative construction and care manuals catered to the needs of each type of species. This way, more people engage in the process while ensuring the sustainability of habitats for the variety of native urban species.",
+            "grafico": "https://drive.google.com/file/d/1LkRLWdpIPguHulsE6snMo_SgSy8bFPd9/view?usp=drive_link",
+            "referencias": [
+                "[1] CAMPKIN B. Bugs, Bats and Animal Estates: The Architectural Territories of ‘Wild Beasts’[J/OL]. Architectural Design, 2010, 80(3): 34-39. https://doi.org/10.1002/ad.1072.",
+                "[2] GROUP A. Animalesque: Urbanismo de coexistencias[J/OL]. ARQ (Santiago), 2020(106): 28-37. https://doi.org/10.4067/S0717-69962020000300028."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Urban space for human-animal"
+                ],
+                "linkdown": [
+                    "Animal feeding in urban environments",
+                    "Artificial wetlands",
+                    "Urban ponds",
+                    "Rain Gardens",
+                    "Artificial reefs",
+                    "Roof for pollinator",
+                    "Built Surfaces for multi-species cohabitation",
+                    "Facades microenvironments",
+                    "Garden connection"
+                ]
+            },
+            "urban_ecology_principles": [
+                "4. A concentration of numerous tiny and diverse human-made objects creates high microhabitat diversity."
+            ]
+        },
+        {
+            "id": "Roof for pollinator",
+            "numero": 40,
+            "escala": "Meso",
+            "contexto": "Building",
+            "problema": "Innovative and effective strategies are needed to counter the current pollinator decline. Agricultural areas offer poor habitats for pollinators, while cities can provide attractive living spaces, even housing more species than rural areas. Cities can serve as refuges for pollinators, but the lack of open spaces limits efforts to promote them. This necessitates rethinking conventional urban green spaces. Cities must strive to create as many favorable pollinator habitats as possible, providing food resources and nesting sites. There is a correlation between the diversity of flowering plants and the diversity of bee species.",
+            "solucion": "Designing green roofs that provide nesting spaces and food resources could support populations of birds, bees, and other beneficial species. Specifically, providing supplemental structures on green roofs - such as piles of sand and dead wood - may enhance crucial pollinator habitat. Additionally, utilizing green roofs as urban refuges for specialized arthropods can promote species needing particular nesting locations. Plots installed with deeper, fine-grain substrates alongside floral enhancements could further nurture the diversity and abundance of wild bees on green roofs.",
+            "grafico": "https://drive.google.com/file/d/19M8eW-CJdPdR1ioC60PH8ixiwc6HXTeB/view?usp=drive_link",
+            "referencias": [
+                "[1] SCHEUERMANN R, PAULI M, BUCHHEISTER C. Urban Green Benefits[M/OL]//ROGGEMA R. Design for Regenerative Cities and Landscapes. Cham: Springer International Publishing, 2022: 279-292. https://link.springer.com/10.1007/978-3-030-97023-9_12.",
+                "[2] PASSASEO A, PÉTREMAND G, ROCHEFORT S, et al. Pollinator emerging from extensive green roofs: wild bees (Hymenoptera, Antophila) and hoverflies (Diptera, Syrphidae) in Geneva (Switzerland)[J/OL]. Urban Ecosystems, 2020, 23(5): 1079-1086. https://doi.org/10.1007/s11252-020-00973-9.",
+                "[3] ISHIMATSU K, ITO K, MITANI Y. Developing Urban Green Spaces and Effective Use of Rooftop Spaces for Cooling and Urban Biodiversity[M/OL]//ITO K. Urban Biodiversity and Ecological Design for Sustainable Cities. Tokyo: Springer Japan, 2021: 217-240. http://link.springer.com/10.1007/978-4-431-56856-8_10.",
+                "[4] PÉTREMAND G, CHITTARO Y, BRAAKER S, et al. Ground beetle (Coleoptera: Carabidae) communities on green roofs in Switzerland: synthesis and perspectives[J/OL]. Urban Ecosystems, 2018, 21(1): 119-132. https://doi.org/10.1007/s11252-017-0697-7.",
+                "[5] KRATSCHMER S, KRIECHBAUM M, PACHINGER B. Buzzing on top: Linking wild bee diversity, abundance and traits with green roof qualities[J/OL]. Urban Ecosystems, 2018, 21(3): 429-446. https://doi.org/10.1007/s11252-017-0726-6."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Buildings for biodiversity",
+                    "Creation of artificial microhabitats"
+                ],
+                "linkdown": [
+                    "Soil biodiversity"
+                ]
+            },
+            "urban_ecology_principles": [
+                "More buildings and tall structures create both more habitats and hazards for organisms."
+            ]
+        },
+        {
+            "id": "buildings for biodiversity",
+            "numero": 8,
+            "escala": "Meso",
+            "contexto": "neighborhood",
+            "problema": "The loss of biodiversity, caused by residential, public, and industrial developments, is a key factor in its decline. In the coming years, urban population growth is expected to increase the demand for housing and infrastructure, exacerbating biodiversity loss. Habitat fragmentation, light pollution, bird collisions with glass surfaces, and noise pollution are among the most significant factors contributing to the impact of these developments on biodiversity.",
+            "solucion": "To mitigate the environmental impact of existing buildings constructed with traditional materials like brick, concrete, and steel, it is recommended to incorporate enveloping surfaces that reduce risks and promote species interaction. When planning new constructions, architects and developers should integrate activity programs that address the needs of non-human species and carefully consider the choice of materials and construction systems. Priority should be given to solutions that enhance biodiversity, minimize lifecycle impacts, reduce energy consumption, and lower the carbon and water footprints of the building. Sustainable materials such as wood, earth, and natural fibers are recommended for their ability to meet these goals.",
+            "grafico": "https://drive.google.com/file/d/1uX8iVljMtrh4WzEJs5LmQ6Cj1jsaaTK-/view?usp=drive_link",
+            "referencias": [
+                "[1] WEISSER W W, HENSEL M, BARATH S, et al. Creating ecologically sound buildings by integrating ecology, architecture, and computational design[J/OL]. People and Nature, 2023, 5(1): 4-20. https://doi.org/10.1002/pan3.10411.",
+                "[2] MARCUS L, PONT M B, BARTHEL S. Towards a socio-ecological spatial morphology: integrating elements of urban morphology and landscape ecology[J/OL]. Urban Morphology, 2019, 23(2). https://journal.urbanform.org/index.php/jum/article/view/4084.",
+                "[3] KENSEK K, DING Y, LONGCORE T. GREEN BUILDING AND BIODIVERSITY: FACILITATING BIRD FRIENDLY DESIGN WITH BUILDING INFORMATION MODELS[J/OL]. Journal of Green Building, 2016, 11(2): 116-130. https://doi.org/10.3992/jgb.11.2.116.1."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Regional Ecological networks",
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": [
+                    "Garden connection",
+                    "Architectural Programming",
+                    "Built Surfaces for multi-species cohabitation",
+                    "Roof for pollinator",
+                    "Facades microenvironments",
+                    "Glass for birds",
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Within a house plot, concentrating diverse land uses, maintenance regimes, and tiny structures commonly increases species richness well above that in a nearby natural area.",
+                "A block of highly diverse and ever-changing house plots is ecologically tied together by some repetitive plantings/land uses, plus green street side and back-boundary corridors."
+            ]
+        },
+        {
+            "id": "Butterfly garden",
+            "numero": 38,
+            "escala": "Micro",
+            "contexto": "houses, gardens, balcony",
+            "problema": "The extinction of butterflies is driven by the destruction and transformation of natural environments into urbanized and agricultural areas, which is further exacerbated by the homogenization of the landscape and the loss of its biodiversity. Various anthropogenic activities contribute to this decline, including the loss of peatlands and wet meadows, increased mowing frequency, and, in some cases, reforestation with trees that block sunlight. Excessive use of fertilizers contaminates the soil, affecting meadows and water bodies, disrupting the larval development of butterflies and hindering their reproduction.",
+            "solucion": "The creation of butterfly gardens in cities is a fundamental mechanism that contributes to the conservation and recovery of these species. It is recommended to identify the host plants of butterflies and include them in the design of gardens, balconies, and terraces, aiming to form a network of interconnected green spaces. These plants not only provide food for the butterflies but also offer them shelter and are essential for their reproduction, as some species use them to lay their eggs.",
+            "grafico": "https://drive.google.com/file/d/1yOjWugHbs6W70SxNKKaOY4nXr8fTdDL4/view?usp=drive_link",
+            "referencias": [
+                "[1] CHRISTIAN HABEL J, ULRICH W, GROS P, et al. Butterfly loss in urban landscapes and nature reserves[J/OL]. Journal for Nature Conservation, 2024, 78: 126562. https://doi.org/10.1016/j.jnc.2024.126562.",
+                "[2] GUERRERO-LEIVA N, CERDA C, BIDEGAIN I. Residential sidewalk gardens and biological conservation in the cities: Motivations and preferences that guide the floristic composition of a little-explored space[J/OL]. Urban Forestry & Urban Greening, 2021, 63: 127227. https://doi.org/10.1016/j.ufug.2021.127227.",
+                "[3] KAJZER-BONK J, NOWICKI P. Vanishing meadows — Quantitative analysis of factors driving population declines of endangered butterflies[J/OL]. Biological Conservation, 2023, 282: 110050. https://doi.org/10.1016/j.biocon.2023.110050."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Wastelands for urban wildlife",
+                    "Cemetery Biodiversity Conservation",
+                    "Garden connection"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Regional Ecological networks",
+            "numero": 1,
+            "escala": "Macro",
+            "contexto": "region",
+            "problema": "Traditional territorial planning has prioritized land use, zoning, transportation, infrastructure, and economics while undervaluing ecological impacts and natural landscapes. Urban-rural divisions disregard the biomes cities occupy, rupturing interconnected ecological systems. Moreover, urban planning delimits boundaries absent of biome distributions and ecosystem connectivity, frequently sacrificing biodiversity for development. The lack of municipal conservation strategies enables incremental ecosystem disruption from encroaching cities. Rather than emphasize biodiversity protection, local authorities have treated it as optional. Inadequate safeguard integration into civic and private spaces has transpired, culminating in vanishing wilderness and shifting hydrology alongside urban expansion. The disconnect between conservation planning and biodiversity prioritization facilitates the problem. Furthermore, biodiversity preservation awareness deficiencies among both residents and planners compound issues. Recognizing extensive biodiversity safeguarding and its environmental and quality of life import must become fundamental to urban planning.",
+            "solucion": "Establishing regional ecological networks that connect adjacent urban and rural biomes is recommended, thus strengthening connectivity between urban habitat patches through corridors that facilitate wildlife transit and propagation, mitigating habitat fragmentation effects. In urban planning, identifying and removing physical and environmental barriers to animal movement, as well as generating solutions to optimize connectivity, is essential. Identified patches can constitute the backbone of the ecological network and should be prioritized in preservation initiatives. Additionally, maximizing the width and functionality of riparian corridors as preferred wildlife pathways is suggested. Prioritizing urbanization in ecologically low-value areas and safeguarding zones important for biodiversity is fundamental. On a regional scale, recognizing these zones and focusing urban expansion on environmentally less vulnerable sites is vital. Working alongside urban developers to implement biodiversity-sensitive urban design practices is key to ensuring preservation across all stages of planning and development.",
+            "grafico": "https://drive.google.com/file/d/1Gjw_azP54-Tg7KLpnUxxHdnl03eGHe2E/view?usp=drive_link",
+            "referencias": [
+                "[1] CONNERY K. Biodiversity and Urban Design: Seeking an Integrated Solution[J/OL]. Journal of Green Building, 2009, 4(2): 23-38. https://doi.org/10.3992/jgb.4.2.23.",
+                "[2] XU W, WANG J, ZHANG M, et al. Construction of landscape ecological network based on landscape ecological risk assessment in a large-scale opencast coal mine area[J/OL]. Journal of Cleaner Production, 2021, 286: 125523. https://doi.org/10.1016/j.jclepro.2020.125523.",
+                "[3] GARRARD G E, WILLIAMS N S G, MATA L, et al. Biodiversity Sensitive Urban Design[J/OL]. Conservation Letters, 2018, 11(2): e12411. https://doi.org/10.1111/conl.12411."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Hydrological networks"
+                ],
+                "linkdown": [
+                    "Improving Lighting",
+                    "Greenway corridors",
+                    "Biodiversity patches",
+                    "Buildings for biodiversity"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Suburbs are filters of flows/movements between rural and city areas, and also key sources of flows affecting both areas."
+            ]
+        },
+        {
+            "id": "Artificial wetlands",
+            "numero": 10,
+            "escala": "Macro",
+            "contexto": "city, region",
+            "problema": "Marine and continental wetlands are biodiversity hotspots that offer a wide array of ecosystem services, such as preserving biodiversity, purifying water, replenishing groundwater, controlling floods, stabilizing coastlines, protecting against storms, sequestering carbon, and mitigating and adapting to climate change. These ecosystems also provide cultural, recreational, and leisure values. However, the conservation of wetlands has been severely threatened by surrounding development and urban expansion processes. The construction of infrastructure, including roads, ports, and residences, along with the presence of industrial zones, has caused significant harm to wetlands, prioritizing economic growth over the preservation of these precious natural habitats.",
+            "solucion": "It is recommended to consider the conservation and restoration of wetlands, as well as the construction of artificial wetlands, as fundamental aspects of urbanization and urban planning. Artificial wetlands can serve as versatile landscape infrastructure for wastewater treatment, flood control, and biodiversity habitat creation, offering alternative and cost-effective solutions. The two essential components of artificial wetlands are plant species and substrate medium. Plants indirectly promote the growth of microbial communities by releasing oxygen from their roots, thereby improving water quality. Substrates also have the ability to remove certain water pollutants through various processes such as ion exchange, adsorption, and precipitation. Moreover, artificial wetlands function as mechanisms for managing stormwater at all scales, fostering biodiversity and habitat creation, establishing new wildlife corridors, and integrating into the urban recreational network.",
+            "grafico": "https://drive.google.com/file/d/1m_VxLuNdmh0fDmT8jrbp1ldcWboo_FDi/view?usp=drive_link",
+            "referencias": [
+                "[1] STEFANAKIS A. The Role of Constructed Wetlands as Green Infrastructure for Sustainable Urban Water Management[J/OL]. Sustainability, 2019, 11(24): 6981. https://doi.org/10.3390/su11246981.",
+                "[2] XIA J, ZHANG Y, XIONG L, et al. Opportunities and challenges of the Sponge City construction related to urban water issues in China[J/OL]. Science China Earth Sciences, 2017, 60(4): 652-658. https://doi.org/10.1007/s11430-016-0111-8.",
+                "[3] MAO D, WANG Z, WU J, et al. China’s wetlands loss to urban expansion[J/OL]. Land Degradation & Development, 2018, 29(8): 2644-2657. https://doi.org/10.1002/ldr.2939."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Hydrological networks",
+                    "Creation of artificial microhabitats"
+                ],
+                "linkdown": [
+                    "Permeable surfaces"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Wetlands are scarce, often due to former farmer activity, and typically contain locally uncommon species tolerant of human disturbance.",
+                "Many streams, ponds, and wetlands have lowered water levels in a wastewater sewage-system area, and are polluted in a septic-system area containing some defective systems."
+            ]
+        },
+        {
+            "id": "Tiny forest",
+            "numero": 23,
+            "escala": "Meso",
+            "contexto": "city",
+            "problema": "The scarcity of native green spaces, coupled with the loss of biodiversity and natural habitats, along with the population's disconnection from nature, create unhealthy urban environments that negatively affect the mental and physical health of inhabitants. In most cities, uniform landscaping like lawns dominates, offering minimal benefits to ecosystems. There is a pressing need to increase carbon sequestration through urban green spaces while simultaneously reducing the vulnerability of urban systems to natural disasters. This can be achieved through the implementation of nature-based solutions. However, current initiatives and some reforestation methods are characterized by their slow pace and low effectiveness, representing one of the main challenges for the restoration of native green spaces in urban environments.",
+            "solucion": "Tiny forests or micro-forests are based on the Miyawaki reforestation method, which proposes the creation of forests on plots as small as 100 square meters. These forests grow several times faster and with greater diversity than traditional methods, providing a space for urban wildlife. As part of the method, it is recommended to conduct a study of the selected site to identify native vegetation species and animal species that can benefit from the project. Next, the soil should be prepared with organic materials, such as compost made from fallen leaves and grass clippings, to a depth of 20 to 30 cm. Subsequently, a diverse mix of native tree species, including intermediate and late-successional species from local forest communities, should be selected to restore multi-layered, natural, or quasi-natural forests. The selected species should be planted densely, using as many companion species as possible to promote cooperative relationships and reduce competition for resources. Finally, it is advisable to cover the soil between the planted seedlings to prevent soil dryness, erosion, and weed growth while simultaneously providing nutrients as the mulch decomposes.",
+            "grafico": "https://drive.google.com/file/d/1rhJsTJT2AOYAfZceUdp9FHNlpZmpiA86/view?usp=drive_link",
+            "referencias": [
+                "[1] MIYAWAKI A. Restoration of living environment based on vegetation ecology: Theory and practice[J/OL]. Ecological Research, 2004, 19(1): 83-90. https://doi.org/10.1111/j.1440-1703.2003.00606.x.",
+                "[2] EGERER M, SUDA M. Designing “Tiny Forests” as a lesson for transdisciplinary urban ecology learning[J/OL]. Urban Ecosystems, 2023, 26(5): 1331-1339. https://doi.org/10.1007/s11252-023-01371-7.",
+                "[3] MIYAWAKI A. Restoration of urban green environments based on the theories of vegetation ecology[J/OL]. Ecological Engineering, 1998, 11(1-4): 157-165. https://doi.org/10.1016/S0925-8574(98)00033-0."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Biodiversity patches"
+                ],
+                "linkdown": [
+                    "Native plants for species diversity",
+                    "Strategic placement of resilient trees",
+                    "Preserving dead trees",
+                    "Permeable surfaces",
+                    "Soil biodiversity",
+                    "Urban space for human-animal"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Strategically located tree plantings, e.g., in parks, help reduce most air pollutants, locally improving air quality."
+            ]
+        },
+        {
+            "id": "Urban wildlife behavior",
+            "numero": 4,
+            "escala": "Macro",
+            "contexto": "region",
+            "problema": "Urban environments have dramatically altered the survival, reproduction, and communication habits of the species they host, compelling them to adapt to disturbances caused by human activity. Artificial shelters, such as roofs, pipes, and urban structures, have replaced natural habitats, while trees and green spaces serve as gathering points for urban biodiversity. The availability of food resources can positively affect reproduction, although hostile environments may hinder the success of offspring development. Humans also influence animal behavior by providing food, which can lead to issues like malnutrition and food dependency. Inadequate waste management feeds scavenger species, impacting trophic networks. Furthermore, noise and light pollution disrupt communication mechanisms and nocturnal habits in many species.",
+            "solucion": "To contribute to urban biodiversity, it is recommended to recognize and monitor the species inhabiting these environments. Establishing planning processes that consider both ecosystem needs and species behaviors is crucial. During planning, homogenization should be avoided, and the installation of native species in the city should be prioritized. To foster successful coexistence between humans and urban wildlife, spaces that respect the specific characteristics of these species must be constructed. Additionally, educational campaigns should be conducted to raise awareness about the benefits of cohabitation and reduce negative interactions. Furthermore, involving communities in nature observation and engaging them as stakeholders in ecosystem restoration and conservation processes is essential.",
+            "grafico": "https://drive.google.com/file/d/1DLMpQaZFmhCMonwh3a1X6zlnW2HRtMor/view?usp=drive_link",
+            "referencias": [
+                "[1] LOWRY H, LILL A, WONG B B M. Behavioural responses of wildlife to urban environments[J/OL]. Biological Reviews, 2013, 88(3): 537-549. https://doi.org/10.1111/brv.12012.",
+                "[2] MAGLE S B, FIDINO M, LEHRER E W, et al. Advancing urban wildlife research through a multi‐city collaboration[J/OL]. Frontiers in Ecology and the Environment, 2019, 17(4): 232-239. https://doi.org/10.1002/fee.2030.",
+                "[3] MAGLE S B, HUNT V M, VERNON M, et al. Urban wildlife research: Past, present, and future[J/OL]. Biological Conservation, 2012, 155: 23-32. https://doi.org/10.1016/j.biocon.2012.06.018."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Regional Ecological networks"
+                ],
+                "linkdown": [
+                    "Urban space for human-animal",
+                    "Citizen science to monitor biodiversity",
+                    "Improving Lighting"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Pipes and streets facilitate widespread pest movement between and into buildings.",
+                "Genetic adaptation and differentiation include urban-rural population divergence, while selective forces include pollution, human-provided food, and low-frequency noise."
+            ]
+        },
+        {
+            "id": "Permeable surfaces",
+            "numero": 19,
+            "escala": "Micro",
+            "contexto": "neighborhood",
+            "problema": "Pavements, which account for 30 to 45% of urban surfaces, have been linked to reduced permeability, causing recurring problems in cities. These impermeable surfaces alter hydrological cycles by preventing water infiltration and increasing runoff, heightening the risk of flooding due to their low water permeability. As a result, urban streams and water bodies deteriorate from diffuse water sources, leading to the degradation of aquatic habitats. The absence of natural filtration provided by soils, which typically removes heavy metals and other contaminants from water, further exacerbates the negative impact on aquatic species.",
+            "solucion": "To reduce the area of impermeable surfaces and control peak flow rates, allowing the entire city to infiltrate water, the use of permeable surfaces such as porous pavements, grass, gravel, porous tiles, and impermeable blocks with holes or slots is recommended. These surfaces help decrease flood risks by facilitating natural water cycles and reducing the concentration of pollutants that reach urban water bodies, thereby improving the quality of life for the species that inhabit them.",
+            "grafico": "https://drive.google.com/file/d/141_eo2y7skPd1wA0B-G0sCQdrkIHQgP4/view?usp=drive_link",
+            "referencias": [
+                "[1] DREELIN E A, FOWLER L, RONALD CARROLL C. A test of porous pavement effectiveness on clay soils during natural storm events[J/OL]. Water Research, 2006, 40(4): 799-805. https://doi.org/10.1016/j.watres.2005.12.002.",
+                "[2] LIU Y, LI T, PENG H. A new structure of permeable pavement for mitigating urban heat island[J/OL]. Science of The Total Environment, 2018, 634: 1119-1125. https://doi.org/10.1016/j.scitotenv.2018.04.041.",
+                "[3] LIU J, BORST M. Performances of metal concentrations from three permeable pavement infiltrates[J/OL]. Water Research, 2018, 136: 41-53. https://doi.org/10.1016/j.watres.2018.02.050."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Rain Gardens",
+                    "Tiny forest",
+                    "Green Parking Lots",
+                    "Street tree biodiversity",
+                    "Wastelands for urban wildlife",
+                    "Garden connection",
+                    "Cemetery Biodiversity Conservation",
+                    "Artificial wetlands",
+                    "Urban ponds",
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": [
+                    "Soil biodiversity"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Porous low-organic-matter soils, characteristic of fill sites, predominate near roads, streets, and buildings."
+            ]
+        },
+        {
+            "id": "Rain Gardens",
+            "numero": 12,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "Urbanization and population growth in cities present significant challenges for urban water systems. The construction and development of urban areas create impervious surfaces that prevent rainwater infiltration, increasing stormwater runoff and degrading water quality in rivers and streams. This issue becomes more pronounced with city expansion and the demand for livable spaces. Additionally, the lack of restoring natural hydrology in urbanized watersheds, increased urban heat, the absence of contaminant treatment, lack of carbon sequestration, and the absence of habitats for removing stormwater pollutants such as suspended solids, heavy metals, phosphorus, and fats and oils that can be toxic to aquatic life, are fundamental problems negatively impacting urban hydrologic cycles.",
+            "solucion": "The construction of rain gardens is recommended as an effective nature-based solution for urban hydrological issues. These gardens capture and store rainwater, reducing runoff and improving water quality. Additionally, they provide further environmental benefits such as mitigating the urban heat island effect, treating pollutants, sequestering carbon, and creating habitats for biodiversity. They also help restore natural hydrological processes in urban areas and decrease flood frequency. Moreover, they enable the creation of attractive green spaces for communities. Regarding location, strategic placement to collect roof, patio, parking lot, and street runoff is recommended. It is ideal to use soil mixes that facilitate infiltration and include proper inlet and outlet structures. To optimize performance, selecting a diversity of perennial plants is advised, especially herbaceous plants capable of retaining and detaining rainwater that are also flood and drought-tolerant. Rain gardens represent a valuable tool for enhanced water management in urban zones. Implementation in various public and private spaces is possible.",
+            "grafico": "https://drive.google.com/file/d/1o2QPGVGo7pFtfdJ0t__eitRGzU7hq148/view?usp=drive_link",
+            "referencias": [
+                "[1] IFTEKHAR M S, ZHANG F, POLYAKOV M, et al. Non-market values of water sensitive urban designs: A case study on rain gardens[J/OL]. Water Resources and Economics, 2021, 34: 100178. https://doi.org/10.1016/j.wre.2021.100178.",
+                "[2] YUAN J, DUNNETT N, STOVIN V. The influence of vegetation on rain garden hydrological performance[J/OL]. Urban Water Journal, 2017, 14(10): 1083-1089. https://doi.org/10.1080/1573062X.2017.1363251.",
+                "[3] MCGAULEY M W, AMUR A, SHAKYA M, et al. A Complete Water Balance of a Rain Garden[J/OL]. Water Resources Research, 2023, 59(12): e2023WR035155. https://doi.org/10.1029/2023WR035155."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Hydrological networks",
+                    "Street tree biodiversity",
+                    "Green Parking Lots",
+                    "Creation of artificial microhabitats",
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": [
+                    "Permeable surfaces"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Stormwater runoff, which cleans urban surfaces and is piped or ditched to stream, pond, or wetland, causes pulses or fluctuations in water levels and pollutant concentrations."
+            ]
+        },
+        {
+            "id": "Biodiversity patches",
+            "numero": 7,
+            "escala": "Meso",
+            "contexto": "parks, green areas",
+            "problema": "The systematic destruction of certain habitats in the past has led to the elimination of many species from vast areas, relegating them to remnant or small vegetation patches. This phenomenon has resulted in severe isolation due to the lack of species exchange in urban and agricultural areas. In this context, it is crucial to identify and manage ecological corridors and habitat patches to form a network structure that facilitates species dispersal. Recent studies confirm the importance of maintaining ecological connectivity and establishing ecological networks to promote positive long-term biodiversity outcomes. Habitat patches, acting as bases for maintaining regional ecosystem stability, play a fundamental role in this process. In urban environments, the disconnection between patches manifests through various factors such as road cuts, light pollution, building blocks, temperature fluctuations, humidity, and noise. These environmental elements act as barriers, restricting species dispersal between different habitat patches. Species richness in urban wooded patches directly correlates with their size. As patch size increases, greater species diversity is observed. However, even the smallest patches have disproportionately high biodiversity value, serving as important habitats for threatened species. Despite the increased extinction risk associated with small patches, their cumulative biodiversity value remains significant. Therefore, protecting and restoring these smaller urban wooded patches is imperative.",
+            "solucion": "Conserving wooded patches within the urban matrix, even the smallest ones, is crucial for maintaining species richness and native species. Protecting and restoring fragments of these habitat remnants can ensure representation of the range of species distributions confined to those specific environments. Undisturbed forest patches play a fundamental role in preserving native herbs, shrubs, and animal species. Utilizing horticultural techniques to create artificial habitats compatible with human recreation can favor greater diversity of native plant species, especially mesophilic herbs. Planting native shrubs and herbs in public parks and green spaces represents an effective alternative to increase species richness.",
+            "grafico": "https://drive.google.com/file/d/1rQ5oplKWhfvrJZ0_dMqbRZ2VmUPy--VN/view?usp=drive_link",
+            "referencias": [
+                "[1] WINTLE B A, KUJALA H, WHITEHEAD A, et al. Global synthesis of conservation studies reveals the importance of small habitat patches for biodiversity[J/OL]. Proceedings of the National Academy of Sciences, 2019, 116(3): 909-914. https://doi.org/10.1073/pnas.1813051115.",
+                "[2] RIVA F, FAHRIG L. The disproportionately high value of small patches for biodiversity conservation[J/OL]. Conservation Letters, 2022, 15(3): e12881. https://doi.org/10.1111/conl.12881.",
+                "[3] HOBBS E R. Species richness of urban forest patches and implications for urban landscape diversity[J/OL]. Landscape Ecology, 1988, 1(3): 141-152. https://doi.org/10.1007/BF00162740."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Regional Ecological networks"
+                ],
+                "linkdown": [
+                    "Wastelands for urban wildlife",
+                    "Tiny forest",
+                    "Cemetery Biodiversity Conservation",
+                    "Green Parking Lots",
+                    "Garden connection"
+                ]
+            },
+            "urban_ecology_principles": [
+                "The distribution of greenspaces, even tiny, within a built area has a strong effect on urban heat, water flows, and species movement."
+            ]
+        },
+        {
+            "id": "Preserving dead trees",
+            "numero": 37,
+            "escala": "Micro",
+            "contexto": "Parks",
+            "problema": "Urban green spaces are the primary habitats for wildlife in cities. In these urban ecosystems, sequential processes of species' life and death occur, which are sometimes altered by the aesthetic perceptions of human beings. An example of this is dead trees, which are often removed under the justification of representing a danger to people or simply due to aesthetic preferences, without understanding the benefits they provide to urban biodiversity. The removal of dead trees is a constant practice, as it is difficult to find places in cities where ecosystems can develop without human intervention. People generally only value trees for their role in environmental improvement and recreation, considering that this only occurs while they are alive. Aesthetic preferences towards dead wood are mostly negative, leading to its suppression in urban parks and forests.",
+            "solucion": "Preserving standing dead trees or their fallen wood represents a benefit for the conservation of future biodiversity. If public safety concerns necessitate the felling of trees, it is not necessary to remove the trunks once they are on the ground. Dead wood provides habitats for species that depend on decomposing wood, such as fungi, insects, or lichens. In fact, ecosystems with wood in different stages of decomposition strengthen their stability and resilience. Effectively communicating the positive effects of dead wood to communities can drive an increase in urban diversity.",
+            "grafico": "https://drive.google.com/file/d/1qSBE9nfkuwLBUMuv-HPkKZC9sYFfA63J/view?usp=drive_link",
+            "referencias": [
+                "[1] KORHONEN A, SIITONEN J, KOTZE D J, et al. Stand characteristics and dead wood in urban forests: Potential biodiversity hotspots in managed boreal landscapes[J/OL]. Landscape and Urban Planning, 2020, 201: 103855. https://doi.org/10.1016/j.landurbplan.2020.103855.",
+                "[2] PARAJULI R, MARKWITH S H. Quantity is foremost but quality matters: A global meta-analysis of correlations of dead wood volume and biodiversity in forest ecosystems[J/OL]. Biological Conservation, 2023, 283: 110100. https://doi.org/10.1016/j.biocon.2023.110100.",
+                "[3] FRÖHLICH A, CIACH M. Dead tree branches in urban forests and private gardens are key habitat components for woodpeckers in a city matrix[J/OL]. Landscape and Urban Planning, 2020, 202: 103869. https://doi.org/10.1016/j.landurbplan.2020.103869."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Wastelands for urban wildlife",
+                    "Tiny forest",
+                    "Cemetery Biodiversity Conservation",
+                    "Garden connection"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Despite considerable tree mortality, dead trees, branches, and logs, along with their associated fauna, are normally scarce due to human removal."
+            ]
+        },
+        {
+            "id": "Soil biodiversity",
+            "numero": 5,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "Soil biodiversity, which constitutes 25% of total biodiversity, is a crucial reservoir of life that harbors a wide array of species, including millipedes, moles, earthworms, ants, mites, springtails, protozoa, nematodes, bacteria, and fungi. However, human activities such as the replacement of natural soil, creation of impermeable surfaces, compaction, pollution, habitat fragmentation, heavy metal-laden runoff, and the formation of heat islands are detrimentally impacting this biodiversity.",
+            "solucion": "To maintain and enhance urban environments, it is recommended to plan, preserve, and expand plant-soil systems in various settings, such as private yards, gardens, roadside verges, pedestrian pathways, parks, green roofs, green walls, and potted plants. It is crucial to avoid soil sealing and to conserve or transplant habitats that support soil biota. Furthermore, preserving leaf litter in urban soils is advised, as it promotes the growth of invertebrates, fungi, and other species that contribute to water infiltration and the retention of pathogens and pollutants. Soil not only provides food and fibers but also regulates air quality and climate, ultimately benefiting human health.",
+            "grafico": "https://drive.google.com/file/d/1eaW66QH-Bw-kTpdavpPmNqp6ge4VjQv4/view?usp=drive_link",
+            "referencias": [
+                "[1] GUILLAND C, MARON P A, DAMAS O, et al. Biodiversity of urban soils for sustainable cities[J/OL]. Environmental Chemistry Letters, 2018, 16(4): 1267-1282. https://doi.org/10.1007/s10311-018-0751-6.",
+                "[2] SUN X, LIDDICOAT C, TIUNOV A, et al. Harnessing soil biodiversity to promote human health in cities[J/OL]. npj Urban Sustainability, 2023, 3(1): 5. https://doi.org/10.1038/s42949-023-00086-0.",
+                "[3] GEISEN S, WALL D H, VAN DER PUTTEN W H. Challenges and Opportunities for Soil Biodiversity in the Anthropocene[J/OL]. Current Biology, 2019, 29(19): R1036-R1044. https://doi.org/10.1016/j.cub.2019.08.007."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Facades microenvironments",
+                    "Roof for pollinator",
+                    "Greenway corridors",
+                    "Permeable surfaces",
+                    "Tiny forest",
+                    "Cemetery Biodiversity Conservation",
+                    "Garden connection"
+                ],
+                "linkdown": [
+                    "Superblock for biodiversity"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Porous low-organic-matter soils, characteristic of fill sites, predominate near roads, streets, and buildings.",
+                "Low organic matter in widespread fill, plus soil compaction by former construction or present human activity, strongly limits the growth of woody plants."
+            ]
+        },
+        {
+            "id": "Green Parking Lots",
+            "numero": 25,
+            "escala": "Meso",
+            "contexto": "neighborhood",
+            "problema": "The urban heat island phenomenon is characterized by higher temperatures in cities due to a greater proportion of impermeable surfaces and limited natural ground cover. These factors diminish evapotranspiration and air circulation while increasing the storage and transfer of heat from materials to the surrounding air. Parking lots, typically constructed using vast expanses of impermeable concrete or asphalt, exacerbate this phenomenon. These surfaces amplify runoff and lack vegetation, such as trees, shrubs, and flowers, which would otherwise contribute to the filtration and purification of rainwater. Furthermore, excessive lighting in these areas intensifies light pollution and further elevates urban temperatures. Consequently, parking lots are transformed into barren, activity-deprived wastelands for both wildlife and human beings alike.",
+            "solucion": "In the construction and renovation of parking lots, it is recommended to manage rainwater through the implementation of rain gardens and permeable surfaces. These features allow for the filtration of water contaminants and reduce runoff. Moreover, incorporating landscaped areas with plants and planting trees is suggested to increase shaded regions and permeable surfaces, providing a connection with nature. To enhance pedestrian and cyclist circulation, it is crucial to improve signage and create adequate spaces for their movement. Lighting elements should be strategically placed to minimize light pollution and encourage the efficient use of this resource. Finally, activating the space through temporary community events, such as fairs and sports activities, is proposed to promote public engagement and utilize the area effectively.",
+            "grafico": "https://drive.google.com/file/d/1ktORhxVOMU0Pnoj-zZcEzrR1ooKfK-Dw/view?usp=drive_link",
+            "referencias": [
+                "[1] ONISHI A, CAO X, ITO T, et al. Evaluating the potential for urban heat-island mitigation by greening parking lots[J/OL]. Urban Forestry & Urban Greening, 2010, 9(4): 323-332. https://doi.org/10.1016/j.ufug.2010.06.002.",
+                "[2] PARISON S, CHAUMONT M, KOUNKOU-ARNAUD R, et al. The effects of greening a parking lot as a heat mitigation strategy on outdoor thermal stress using fixed and mobile measurements: case-study project 'tertiary forest'[J/OL]. Sustainable Cities and Society, 2023, 98: 104818. https://doi.org/10.1016/j.scs.2023.104818.",
+                "[3] BOUZOUIDJA R, LECONTE F, KISS M, et al. Experimental Comparative Study between Conventional and Green Parking Lots: Analysis of Subsurface Thermal Behavior under Warm and Dry Summer Conditions[J/OL]. Atmosphere, 2021, 12(8): 994. https://doi.org/10.3390/atmos12080994."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Biodiversity patches"
+                ],
+                "linkdown": [
+                    "Native plants for species diversity",
+                    "Strategic placement of resilient trees",
+                    "Permeable surfaces",
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires",
+                    "Rain Gardens"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Water quantity (or hydrologic flow) and flooding of streams and rivers commonly increase with the proportion of developed land in upstream or headwater areas.",
+                "Widespread high soil pH from water running across concrete or mortar surfaces differentially affects mineral nutrient availability, growth of organisms, and species present."
+            ]
+        },
+        {
+            "id": "Citizen science to monitor biodiversity",
+            "numero": 17,
+            "escala": "Meso",
+            "contexto": "Parks, Green areas, city",
+            "problema": "Pollution, habitat loss, invasive species, climate change, and other anthropogenic pressures have altered the composition and diversity of biological communities, endangering humanity's survival. The lack of knowledge about the magnitude of these impacts on biodiversity has become apparent, leading to planning problems that affect basic necessities such as food supply, medicine, climate regulation, crop pollination, and other ecosystem and cultural services provided by biodiversity.",
+            "solucion": "Monitoring and tracking urban biodiversity behavior is recommended in planning and construction processes, as it is essential to understand the best ways to preserve and manage our collective biodiversity. This ensures livelihoods by providing basic goods and ecosystem services. Moreover, biodiverse ecosystems have a greater potential to adapt to climate change. Although monitoring requires scientists, their collaboration with communities has developed methods as citizen science, which has contributed to obtaining the large-scale data necessary for species monitoring. This cost-effective method also raises awareness among citizens about implementing conservation measures, offering educational benefits.",
+            "grafico": "https://drive.google.com/file/d/11zMUDcUgjxVuKyUdsnRKUTuH7TxP9uwq/view?usp=drive_link",
+            "referencias": [
+                "[1] HERMY M, CORNELIS J. Towards a monitoring method and a number of multifaceted and hierarchical biodiversity indicators for urban and suburban parks[J/OL]. Landscape and Urban Planning, 2000, 49(3-4): 149-162. https://doi.org/10.1016/S0169-2046(00)00061-X.",
+                "[2] CALLAGHAN C T, OZEROFF I, HITCHCOCK C, et al. Capitalizing on opportunistic citizen science data to monitor urban biodiversity: A multi-taxa framework[J/OL]. Biological Conservation, 2020, 251: 108753. https://doi.org/10.1016/j.biocon.2020.108753.",
+                "[3] CORNELIS J, HERMY M. Biodiversity relationships in urban and suburban parks in Flanders[J/OL]. Landscape and Urban Planning, 2004, 69(4): 385-401. https://doi.org/10.1016/j.landurbplan.2003.10.038."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Urban wildlife behavior"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Animal feeding in urban environments",
+            "numero": 44,
+            "escala": "Micro",
+            "contexto": "homes, park, city",
+            "problema": "Although most species have been negatively impacted by human activities in the environment, some have adapted to urban areas, benefiting from the available food and shelter. This liminal fauna has adjusted its behavior to coexist with urban conditions, leading to problems such as property damage and the transmission of pathogens to humans and their pets, which has fostered conflictual encounters. These changes in dietary habits are further exacerbated by the negligent mishandling of waste and the direct feeding of wildlife by some individuals. As a result, the atypical behavioral modifications exhibited by these species create imbalances in ecosystems.",
+            "solucion": "Feeding wild species is not recommended, as it can condition their behavior and lead to a dependence on anthropogenic food sources. Moreover, human food is often unhealthy for these animals, disrupting their natural dietary habits and trophic networks. To minimize the impact on urban wildlife, food production companies should improve their processes to avoid becoming sources of food and shelter. Organic and recyclable waste should be kept away from potential encounters with wild animals, and pets should be fed indoors. By recognizing species as inhabitants of urban and surrounding ecosystems, citizens can contribute to the preservation of biodiversity.",
+            "grafico": "https://drive.google.com/file/d/1phJsSZdXHh-hNYvDrm2rgWYtI_hWeEVf/view?usp=drive_link",
+            "referencias": [
+                "[1] PLAZA P I, LAMBERTUCCI S A. How are garbage dumps impacting vertebrate demography, health, and conservation?[J/OL]. Global Ecology and Conservation, 2017, 12: 9-20. https://doi.org/10.1016/j.gecco.2017.08.002.",
+                "[2] CIUCCI P, MANCINELLI S, BOITANI L, et al. Anthropogenic food subsidies hinder the ecological role of wolves: Insights for conservation of apex predators in human-modified landscapes[J/OL]. Global Ecology and Conservation, 2020, 21: e00841. https://doi.org/10.1016/j.gecco.2019.e00841.",
+                "[3] SOTILLO A, BAERT J M, MÜLLER W, et al. Weather- and human-related shifts in feeding conditions promote the use of built-up areas by an avian opportunist[J/OL]. Landscape and Urban Planning, 2022, 217: 104268. https://doi.org/10.1016/j.landurbplan.2021.104268."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Creation of artificial microhabitats",
+                    "Street tree biodiversity"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Hospitals, veterinaries, zoos, structures with food, and human wastewater greatly enrich microbial diversity and ecology."
+            ]
+        },
+        {
+            "id": "Artificial reefs",
+            "numero": 9,
+            "escala": "Meso",
+            "contexto": "city",
+            "problema": "Coral reefs, one of the oldest and most diverse ecosystems on the planet, provide ecosystem services, including climate disaster mitigation, carbon sequestration, water and air purification, and food production that contributes to the health and well-being of populations. However, these ecosystems face numerous threats, including natural events like typhoons and hurricanes, rising water temperatures due to climate change, dredging of channels and ports, vessel grounding and anchoring, and destructive practices like dynamite fishing. These factors severely damage coral reefs, whose slow growth processes hinder recovery. As a result, there is a decrease in fishery resources and alterations in trophic networks.",
+            "solucion": "Coral restoration techniques are diverse, with several recommended approaches including asexual propagation, larval restoration, and artificial coral reef methodologies. Among the latter, Biorock reefs utilize metallic structures where electrolytic reactions dissolve natural minerals from seawater. Concrete artificial reefs, installed in the ocean, provide another method, as do digitally manufactured artificial reefs, which are 3D-printed structures mimicking coral reef formations. Additionally, other methods are currently under development. It is crucial to emphasize that one of the most important actions in coral reef restoration is the holistic restoration of ecosystems. In all cases, collaboration between scientists and communities has consistently yielded the most favorable outcomes.",
+            "grafico": "https://drive.google.com/file/d/1vaLM48-rtu-hLK9Sfy67GxF7P23ea3hp/view?usp=drive_link",
+            "referencias": [
+                "[1] BARTON J A, WILLIS B L, HUTSON K S. Coral propagation: a review of techniques for ornamental trade and reef restoration[J/OL]. Reviews in Aquaculture, 2017, 9(3): 238-256. https://doi.org/10.1111/raq.12135.",
+                "[2] VARDI T, HOOT W C, LEVY J, et al. Six priorities to advance the science and practice of coral reef restoration worldwide[J/OL]. Restoration Ecology, 2021, 29(8): e13498. https://doi.org/10.1111/rec.13498.",
+                "[3] JAAP W C. Coral reef restoration[J/OL]. Ecological Engineering, 2000, 15(3-4): 345-364. https://doi.org/10.1016/S0925-8574(00)00085-9."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Hydrological networks",
+                    "Creation of artificial microhabitats"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Urban streams and rivers, or estuary and sea, normally clean an urban area by carrying away numerous types of solid waste and chemical pollution."
+            ]
+        },
+        {
+            "id": "Facades microenvironments",
+            "numero": 41,
+            "escala": "Meso",
+            "contexto": "building",
+            "problema": "Rapid urban densification is reducing green spaces, increasing air pollution from reduced contaminant capture. Accelerated urbanization also contributes to the urban heat island effect, rising temperatures, and loss of natural habitats, leading to declining native species. Moreover, predominant impervious urban surfaces fail to capture rainfall, generating flooding. Lacking vegetation for shade or insulation, cities increasingly rely on artificial heating/cooling systems, exacerbating noise pollution. Green building facades and roofs can mitigate these issues. They provide cooling shade through plant evapotranspiration, absorbing carbon emissions, filtering pollutants, and releasing oxygen to improve air quality and the microclimate. Green surfaces also offer urban animal habitats while capturing rainwater to reduce flooding. Additionally, they supply aesthetic benefits, dampen noise as acoustic barriers, and enhance building insulation to lower energy demand. By exposing people to diverse microbiomes, green spaces may also strengthen immune function while sustaining urban biodiversity.",
+            "solucion": "Conduct an adequate site analysis considering climate, sun orientation, and load capacity. Carefully select native plant species. Choose porous substrates like soil, wood, and natural ground to enable diverse microbial colonization, avoiding processed materials that inhibit it. Incorporate geometric surface configurations to create varied microenvironments and promote biodiversity. Design stratified facades with material layers forming a gradient from exterior (drier) to interior (more humid) conditions to host different microorganisms. Provide suitable nesting, feeding, and shelter conditions for animal species.",
+            "grafico": "https://drive.google.com/file/d/1QdfXWTT9sOkaG2xkwQpcgUPZQS9guoW_/view?usp=drive_link",
+            "referencias": [
+                "[1] EBSCOhost | 162218099 | Designing Biodiverse High-Rise Façade Microbiomes for Healthy Urban Environments.[EB/OL]. [2024-05-17]. https://www.jstor.org/stable/27195650.",
+                "[2] LUNDHOLM J T. Spontaneous dynamics and wild design in green roofs[J/OL]. Israel Journal of Ecology and Evolution, 2016, 62(1-2): 23-31. https://doi.org/10.1080/15659801.2015.1025511.",
+                "[3] EL MENSHAWY A S, MOHAMED A F, FATHY N M. A comparative study on green wall construction systems, case study: South valley campus of AASTMT[J/OL]. Case Studies in Construction Materials, 2022, 16: e00808. https://doi.org/10.1016/j.cscm.2021.e00808."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "buildings for biodiversity",
+                    "Creation of artificial microhabitats"
+                ],
+                "linkdown": [
+                    "Soil biodiversity"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Green roofs (vegetation covered) and green walls help reduce urban heat buildup, stormwater runoff, and air pollution locally within an urban area."
+            ]
+        },
+        {
+            "id": "Campaign on light pollution",
+            "numero": 14,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "The lack of awareness and understanding of light pollution leads to inefficient and harmful lighting practices that disrupt biological cycles, cause energy waste, and contribute to the loss of night sky visibility. This limited comprehension of the issue hinders the implementation of mitigation measures that promote responsible actions towards urban wildlife and resource sustainability.",
+            "solucion": "1. Conduct public awareness campaigns to increase knowledge of light pollution and its negative effects. 2. Involve the community in monitoring and reporting problematic sources of light pollution. 3. Develop policies and regulations to control light emissions and promote sustainable alternatives. 4. Educate on the circadian rhythms of humans and animals and the importance of light/dark cycles.",
+            "grafico": "https://drive.google.com/file/d/1GeM6F2jef8pVbFy5-G1j2t-jLeZp2W4x/view?usp=drive_link",
+            "referencias": [
+                "[1] DOMINONI D M. Ecological Effects of Light Pollution: How Can We Improve Our Understanding Using Light Loggers on Individual Animals?[M/OL]//MURGUI E, HEDBLOM M. Ecology and Conservation of Birds in Urban Environments. Cham: Springer International Publishing, 2017: 251-270[2024-09-20]. http://link.springer.com/10.1007/978-3-319-43314-1_13.",
+                "[2] Kaushik, K., Nair, S., & Ahamad, A. (2022). Studying light pollution as an emerging environmental concern in India. Journal of Urban Management, 11(3), 392–405. https://doi.org/10.1016/j.jum.2022.05.012."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": [
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Many terrestrial wildlife species are nocturnal, avoiding daytime people and traffic, and respond to diverse changing urban lights."
+            ]
+        },
+        {
+            "id": "Advertising lighting",
+            "numero": 15,
+            "escala": "Meso",
+            "contexto": "building",
+            "problema": "Inadequate regulation of advertising lighting fails to set appropriate limits on the intensity, direction, and duration of light emitted by illuminated signs, billboards, and neon displays. Consequently, these elements often emit intense light that spreads beyond their target area, invading public and private spaces. This intrusive light can have negative impacts, such as disorienting and disturbing urban wildlife, as well as affecting human health and well-being by disrupting sleep patterns and causing visual discomfort.",
+            "solucion": "Regulate lighting levels, intensity, and types of lamps, particularly in advertising signs, billboards, and public lighting. Diminish or turn off ornamental and advertising lighting during the night, favoring directional lighting instead. Establish suitable limits and lighting standards to prevent disruption to wildlife.",
+            "grafico": "https://drive.google.com/file/d/1FhRpIDJyQ4KilkIwMo0ICNAOQFE821Us/view?usp=drive_link",
+            "referencias": [
+                "[1] HÖLKER F, BOLLIGER J, DAVIES T W, et al. 11 Pressing Research Questions on How Light Pollution Affects Biodiversity[J]. Frontiers in Ecology and Evolution, 2021, 9: 767177. https://doi.org/10.3389/fevo.2021.767177.",
+                "[2] Nakamura-Garcia, M. T., & Ríos-Chelén, A. A. (2022). More than noise: Light, moon phase, and singing behavior in a passerine. Urban Ecosystems, 25(1), 291–303. https://doi.org/10.1007/s11252-021-01142-2."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Improving Lighting"
+                ],
+                "linkdown": [
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Many terrestrial wildlife species are nocturnal, avoiding daytime people and traffic, and respond to diverse changing urban lights."
+            ]
+        },
+        {
+            "id": "Improving Lighting",
+            "numero": 3,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "The widespread use of electric lighting, driven by urbanization, industry, and transportation networks, disrupts the natural cycles of urban and natural ecosystems. Approximately 18% of the Earth's surface is affected by light pollution, manifested in phenomena such as light trespass, overlighting, and sky glow. These issues interfere with the ability of birds and animals to navigate during migration, feeding, and mating. For plants, light serves as a cue for seasonal variation, defining their circadian rhythms and photosynthesis processes. Excessive nighttime lighting also hinders the atmosphere's recovery from air pollution and diminishes the visibility of the night sky. While nocturnal illumination is essential, the lack of planning, high levels of waste, and poor practices are the primary causes of light pollution.",
+            "solucion": "To address this issue, it is recommended to implement measures that ensure effective lighting by precisely directing it towards the intended area, providing the appropriate amount of light, and using it only when necessary. Reducing light pollution also depends on selecting the suitable color temperature and considering the application context, as well as choosing the appropriate equipment and ensuring its correct orientation and installation. These actions aim to minimize the amount of energy used for illumination and mitigate the negative effects on biodiversity.",
+            "grafico": "https://drive.google.com/file/d/1SKDCV82g-vsxJv1AqOAsRNA77I7-_bjL/view?usp=drive_link",
+            "referencias": [
+                "[1] BENNIE J, DAVIES T W, CRUSE D, et al. Ecological effects of artificial light at night on wild plants[J/OL]. Journal of Ecology, 2016, 104(3): 611-620. https://doi.org/10.1111/1365-2745.12551.",
+                "[2] LUGINBUHL C B, BOLEY P A, DAVIS D R. The impact of light source spectral power distribution on sky glow[J/OL]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2014, 139: 21-26. https://doi.org/10.1016/j.jqsrt.2013.12.004.",
+                "[3] GASTON K J, DUFFY J P, BENNIE J. Quantifying the erosion of natural darkness in the global protected area system[J/OL]. Conservation Biology, 2015, 29(4): 1132-1141. https://doi.org/10.1111/cobi.12462.",
+                "[4] https://darksky.org/resources/guides-and-how-tos/lighting-principles/"
+            ],
+            "conexiones": {
+                "linkUp": [],
+                "linkdown": [
+                    "Lighting restriction in natural areas",
+                    "Advertising lighting",
+                    "Campaign on light pollution"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Many terrestrial wildlife species are nocturnal, avoiding daytime people and traffic, and respond to diverse changing urban lights."
+            ]
+        },
+        {
+            "id": "Greenway corridors",
+            "numero": 6,
+            "escala": "Macro",
+            "contexto": "city",
+            "problema": "Habitat fragmentation due to urban expansion, the lack of ecological corridors, and insufficient integration of green areas into city design hinder the mobility and interaction of flora and fauna. This disconnection disrupts the natural flow of energy, nutrients, and organisms, impacting the resilience and health of urban ecosystems. Furthermore, the lack of connectivity between green spaces limits the ecosystem services they provide, such as microclimate regulation, air filtration, and noise reduction.",
+            "solucion": "Establishing wide, vegetated greenway corridors with small trails along the edges provides necessary habitat resources while enabling safe animal movement between patches of preserved land. These broad, interconnected greenbelts supply abundant food sources, nesting sites, and protective cover for local species to augment isolated habitat fragments. They facilitate migration and dispersion to maintain healthy gene flow for vulnerable populations now fragmented by urban infrastructure barriers. Wildlife corridors with short 1-2 km distances between vegetated patches also mitigate human disturbance from adjacent development, minimizing noise, light, and other pollution into natural areas.",
+            "grafico": "https://drive.google.com/file/d/1q15FzowVa9xnBY6TQSBANtkhk9wzaeJy/view?usp=drive_link",
+            "referencias": [
+                "[1] Lynch, A. J. (2019). Creating Effective Urban Greenways and Stepping-stones: Four Critical Gaps in Habitat Connectivity Planning Research. Journal of Planning Literature, 34(2), 131–155. https://doi.org/10.1177/0885412218798334.",
+                "[2] TRAVERS E, HÄRDTLE W, MATTHIES D. Corridors as a tool for linking habitats – Shortcomings and perspectives for plant conservation[J]. Journal for Nature Conservation, 2021, 60: 125974."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Regional Ecological networks"
+                ],
+                "linkdown": [
+                    "Street tree biodiversity",
+                    "Artificial wetlands",
+                    "Urban ponds",
+                    "Soil biodiversity",
+                    "Urban space for human-animal",
+                    "Wildlife crossings"
+                ]
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Lighting restriction in natural areas",
+            "numero": 13,
+            "escala": "Meso",
+            "contexto": "region",
+            "problema": "Excessive artificial lighting negatively impacts natural reserves and their ecosystems. It disrupts the behavioral cycles of both aquatic and terrestrial fauna due to light pollution. This problem is further aggravated by a lack of awareness about the need to establish clear boundaries between urban zones and protected areas.",
+            "solucion": "Establishing buffer zones surrounding wildlife habitats—within which outdoor lighting installations would face restrictions. Thoughtful demarcation of dark sky preserves enhances nocturnal environments that many threatened species rely on for navigation during seasonal migrations. Additionally, minimizing artificial light encroachment into wetlands protects amphibian and aquatic life cycles dependent on naturally occurring photoperiods.",
+            "grafico": "https://drive.google.com/file/d/12BDCtHDbssfjQx4SuOfCdZIOJgquSDZB/view?usp=drive_link",
+            "referencias": [
+                "[1] Kaushik, K., Nair, S., & Ahamad, A. (2022). Studying light pollution as an emerging environmental concern in India. Journal of Urban Management, 11(3), 392–405. https://doi.org/10.1016/j.jum.2022.05.012.",
+                "[2] CZAJA M, KOŁTON A. How light pollution can affect spring development of urban trees and shrubs[J/OL]. Urban Forestry & Urban Greening, 2022, 77: 127753. https://doi.org/10.1016/j.ufug.2022.127753."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Greenway corridors",
+                    "Improving Lighting"
+                ],
+                "linkdown": [
+                    "Plant barriers to dampen artificial light"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Many terrestrial wildlife species are nocturnal, avoiding daytime people and traffic, and respond to diverse changing urban lights."
+            ]
+        },
+        {
+            "id": "Cemetery Biodiversity Conservation",
+            "numero": 24,
+            "escala": "Meso",
+            "contexto": "city",
+            "problema": "The increasing pressure on urban green spaces has highlighted the underutilization of the ecological potential of cemeteries. These areas are seldom recognized for their value in environmental conservation and the provision of ecosystem services. Current management lacks a comprehensive vision that balances historical and cultural value with environmental concerns, resulting in a lack of awareness regarding their significance in preserving biodiversity. Addressing tensions concerning ownership, administration, design, and uses of cemeteries, while adapting to the changing funeral needs of diverse societies, is essential. Balancing the multiple functions and meanings of these spaces is crucial: cemeteries serve as sites for burial and reflection, but also hold value as urban green areas. Integrating natural elements not only provides comforting experiences that contribute to visitors' well-being but also supports biodiversity conservation, including threatened species.",
+            "solucion": "Cemeteries can function as urban biodiversity hotspots. By integrating them into the city’s green infrastructure as wildlife corridors, they facilitate species movement and provide valuable ecosystem services such as microclimate regulation, carbon capture, erosion control, pollination, and biodiversity conservation. Differentiated management is crucial, ranging from intensively maintained lawns to minimally managed meadows and reforested areas. Preserving old standing dead trees is vital for endangered species habitats. Allowing natural processes to occur with minimal human intervention will enable forest regeneration and enhance wildlife diversity. Reducing intensive lawn management promotes the growth of wildflower meadows. Upholding conduct guidelines that limit disturbances is essential to provide peaceful refuge for urban wildlife.",
+            "grafico": "https://drive.google.com/file/d/19vVwks_txmv82TkaNwqNGzSjGVJVWk-r/view?usp=drive_link",
+            "referencias": [
+                "[1] SWENSEN G. Between romantic historic landscapes, rational management models and obliterations – urban cemeteries as green memory sites[J/OL]. Urban Forestry & Urban Greening, 2018, 33: 58-65. https://doi.org/10.1016/j.ufug.2018.04.013.",
+                "[2] SALLAY Á, TAR I G, MIKHÁZI Z, et al. The Role of Urban Cemeteries in Ecosystem Services and Habitat Protection[J/OL]. Plants, 2023, 12(6): 1269. https://doi.org/10.3390/plants12061269.",
+                "[3] STRAKA T M, MISCHO M, PETRICK K J S, et al. Urban Cemeteries as Shared Habitats for People and Nature: Reasons for Visit, Comforting Experiences of Nature, and Preferences for Cultural and Natural Features[J/OL]. Land, 2022, 11(8): 1237. https://doi.org/10.3390/land11081237."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Biodiversity patches",
+                    "Architectural Programming"
+                ],
+                "linkdown": [
+                    "Native plants for species diversity",
+                    "Strategic placement of resilient trees",
+                    "Preserving dead trees",
+                    "Butterfly garden",
+                    "Permeable surfaces",
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires",
+                    "Soil biodiversity",
+                    "Urban space for human-animal",
+                    "Vegetation for noise attenuation"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Dissimilar large greenspaces in a city contain most of the interior and uncommon native species, and are major sources for species dispersal within the city."
+            ]
+        },
+        {
+            "id": "Garden connection",
+            "numero": 26,
+            "escala": "Meso",
+            "contexto": "Town",
+            "problema": "Land fragmentation is often carried out without considering its impact on ecosystems. Such territorial divisions promote the fragmentation of natural habitats since the lack of connectivity between green areas on properties hinders ecological continuity.",
+            "solucion": "Avoid fragmentation of large gardens into smaller properties through urban planning policies to preserve vital refuge for endangered urban wildlife. Large, contiguous green spaces enable botanical and biological diversity to flourish across generations. Subdivided lots that fragment native flora communities directly threaten vulnerable species already pressed by climate change. Apartment courtyard habitats with well-curated native plantings engender opportunities for community building around shared green infrastructure.",
+            "grafico": "https://drive.google.com/file/d/1WLoXl6F-okai10wUIp0AYVx8mYfix00g/view?usp=drive_link",
+            "referencias": [
+                "[1] KOS K, BUJOCZEK M, BUJOCZEK L. How do the features of individual gardens affect bird diversity in rural-suburban areas?[J]. Urban Forestry & Urban Greening, 2021, 58: 126962.",
+                "[2] Lynch, A. J. (2019). Creating Effective Urban Greenways and Stepping-stones: Four Critical Gaps in Habitat Connectivity Planning Research. Journal of Planning Literature, 34(2), 131–155. https://doi.org/10.1177/0885412218798334."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Wildlife corridors",
+                    "Biodiversity patches",
+                    "buildings for biodiversity",
+                    "Creation of artificial microhabitats"
+                ],
+                "linkdown": [
+                    "Native plants for species diversity",
+                    "Strategic placement of resilient trees",
+                    "Preserving dead trees",
+                    "Butterfly garden",
+                    "Permeable surfaces",
+                    "Soil biodiversity",
+                    "Vegetation for noise attenuation"
+                ]
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Built Surfaces for multi-species cohabitation",
+            "numero": 39,
+            "escala": "Micro",
+            "contexto": "building",
+            "problema": "The urban landscape, with its vast size, complex configurations, sprawling extent, and massive built environment, views biodiversity as a passive by-product of design rather than considering cities as integral parts of natural ecosystems. Driven by an anthropocentric approach, impermeable constructed surfaces fragment and isolate habitats, disrupting ecological networks and obstructing the free movement of animal and plant species in urban areas. The built environment stands as a primary driver of biodiversity loss in cities. Although endangered species may enjoy legal protection, their habitats face fragmentation and isolation due to the pressures of densification. Laws safeguarding nature and habitats fail to account for their complexity and fragility. Although many habitats receive protection, critical corridors essential for animal and plant mobility do not receive the same consideration. Development encroaching on or near ecological networks creates movement barriers for non-human animals, severely compromising these networks. Current planning and design, centered only on human needs, produces impermeable structures that restrict species' free passage through the landscape. Modifying built surfaces to facilitate interaction between interior spaces and ecosystems could resolve many of the aforementioned issues.",
+            "solucion": "To ensure species persistence within the built environment, existing habitats should be protected, or new urban habitats intentionally created, providing necessary resources for survival. Built surfaces interacting with ecosystems must employ treatments contributing to species recovery and conservation, transforming buildings into a positive or neutral impact on the urban ecosystem. Design thinking should center equally on human and non-human species, considering their respective requirements. Building processes should include species as stakeholders during planning and design, ensuring they benefit from new constructions. Incorporating shared habitat elements like green roofs, walls, and cladding cavities for birds and insects is recommended. These should be strategically distributed across the building envelope, considering environmental conditions, species preferences, and proximity to human spaces. Species selection for integration is crucial, initially focusing on those most likely to survive and positively interact with humans. Involving species representatives throughout the design process advocates for their needs. During construction, sites should be evaluated beforehand, and measures taken to protect existing habitats. Appropriate construction technologies and materials compatible with non-human species' needs must be selected. Redefining maintenance perceptions to accept the dynamic nature of multi-species cohabitation is essential.",
+            "grafico": "https://drive.google.com/file/d/1n7H34siy2CwQHcCOyj01Sb74ndLaAMv7/view?usp=drive_link",
+            "referencias": [
+                "[1] GROBMAN Y J, WEISSER W, SHWARTZ A, et al. Architectural Multispecies Building Design: Concepts, Challenges, and Design Process[J/OL]. Sustainability, 2023, 15(21): 15480. https://doi.org/10.3390/su152115480.",
+                "[2] SELVAN S U, SAROGLOU S T, JOSCHINSKI J, et al. Toward multi-species building envelopes: A critical literature review of multi-criteria decision-making for design support[J/OL]. Building and Environment, 2023, 231: 110006. https://doi.org/10.1016/j.buildenv.2023.110006."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "buildings for biodiversity",
+                    "Creation of artificial microhabitats"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Residential high rises, low rises, single units, courtyard/patio houses, and informal squatter housing in a city serve as differing sources, sinks, and repellents for species movement."
+            ]
+        },
+        {
+            "id": "Glass for birds",
+            "numero": 42,
+            "escala": "Micro",
+            "contexto": "buildings, houses",
+            "problema": "Increasing human development and construction replaces birds' natural habitats with construction featuring large glass surfaces. This escalates collision risks for both resident and migratory birds. Collisions of birds with glass surfaces on houses, buildings, bus shelters, and other structures represent a major source of human-caused bird mortality. Higher collision risks have been documented in rural versus urban areas, possibly owing to greater bird abundance in less populated zones. Additionally, attracting birds towards windows through feeders, bird baths, and ornamental vegetation increases bird density near glass, thus elevating collision rates. Reflections in glass windows often confuse birds, leading them to crash into surfaces they perceive as open space. Particularly hazardous are those featuring reflections of natural scenery and skies. Despite the growing availability of products designed to mitigate this issue, such as glass with etched patterns, markers, and adhesive films, broader implementation and field-testing of such deterrent strategies remains necessary.",
+            "solucion": "Avoid transparent glass panels on buildings. Opaque materials can prevent collisions. Adhesive patterns on glass alert birds to barriers. Decals of predator birds or etched, laminated, UV-coated glass also enhance visibility. Reducing nocturnal lighting on facades is advisable, as artificial light disorients avian flight paths towards glass. Careful placement of vegetation and food sources away from windows minimizes encounters. A multifaceted approach combining deterrent panels with reduced lighting has an enhanced startling effect, acting through various mechanisms.",
+            "grafico": "https://drive.google.com/file/d/1cIuEO_vmLJ4ngBfPXHuc6W6ubOSNtcxW/view?usp=drive_link",
+            "referencias": [
+                "[1] ZYŚK-GORCZYŃSKA E, SKÓRKA P, ŻMIHORSKI M. Graffiti saves birds: A year-round pattern of bird collisions with glass bus shelters[J/OL]. Landscape and Urban Planning, 2020, 193: 103680. https://doi.org/10.1016/j.landurbplan.2019.103680.",
+                "[2] DANIEL KLEM Jr. Collisions between Birds and Windows: Mortality and Prevention (Colisiones de Pájaros con Ventanas: Mortalidad y Prevención)[J]. Journal of Field Ornithology, 1990, 61(1): 120-128."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "buildings for biodiversity"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Light sensors",
+            "numero": 32,
+            "escala": "Micro",
+            "contexto": "architecture",
+            "problema": "Excessive waste, lack of planning, and poor lighting practices in both public and private spaces are the primary causes of light pollution. These issues can be tackled through simple behavioral changes and the implementation of low-cost technologies.",
+            "solucion": "1-Using motion sensors and timers to turn off lights when not needed would benefit foraging, migration, and breeding behaviors by allowing natural light cycles to regulate animals' circadian rhythms. 2-Avoiding excessive illumination preserves the integrity of interdependent ecosystems that rely on biological cues from properly timed lighting.",
+            "grafico": "https://drive.google.com/file/d/11voFQQqtQGriFOT_Tw5N3msT32zzuLpE/view?usp=drive_link",
+            "referencias": [
+                "[1] Kaushik, K., Nair, S., & Ahamad, A. (2022). Studying light pollution as an emerging environmental concern in India. Journal of Urban Management, 11(3), 392–405. https://doi.org/10.1016/j.jum.2022.05.012.",
+                "[2] BACHANEK K H, TUNDYS B, WIŚNIEWSKI T, et al. Intelligent Street Lighting in a Smart City Concepts—A Direction to Energy Saving in Cities: An Overview and Case Study[J]. Energies, 2021, 14(11): 3018."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Plant barriers to dampen artificial light",
+                    "Advertising lighting",
+                    "Campaign on light pollution",
+                    "Street tree biodiversity",
+                    "Green Parking Lots",
+                    "Wastelands for urban wildlife",
+                    "Cemetery Biodiversity Conservation",
+                    "Buildings for biodiversity",
+                    "Superblock for biodiversity"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Urban space for human-animal",
+            "numero": 16,
+            "escala": "Meso",
+            "contexto": "city",
+            "problema": "Humans and animals have a long history of interaction in urban settings. Many species struggle to adapt to cities, leading to conflict with humans over basic resources like food and shelter. Urban animals often face persecution, including capture, killing, or confinement in captive environments like zoos and inadequate shelters, hindering their evolution. The lack of human empathy and understanding towards these animals' needs worsens the situation. Urban barriers and dangers like roads, buildings, and pollution further threaten their health and survival. Confining them in unnatural spaces causes stress and behavioral changes, increasing the risk of disease transmission and aggression between species. Animals roaming freely generate noise and waste, causing problems for residents. Raccoons and stray dogs rummaging through trash pose sanitation concerns. Additionally, the close proximity between people and urban wildlife facilitates disease transmission. The plight of stray animals is worrying, as many are ignored or poisoned. Negligence and the lack of public shelters perpetuate their suffering.",
+            "solucion": "Promoting the collaborative creation of more urban infrastructure designed for mixed human-animal use, such as parks with dog drinking fountains, bird-accessible fountains, and recreation areas that consider the needs of different species. Making more flexible and expanding policies regulating the presence and access of pets to more public spaces such as transportation, beaches, and retail stores. Implementing natural and artificial elements to create an adequate, healthy environment where animals and humans can coexist in the city. Developing urban and architectural models that consider the more-than-human dimension of those who inhabit and interact in the city. A cultural and ethical change based on interspecies empathy, respect for animal otherness, and appreciation of their contributions to the city is necessary. Implementing sterilization and identification programs for ethically managing populations of domestic animals (dogs, cats) and synanthropic fauna (pigeons, rodents). Rethinking the city as a multispecies space where animals are not excluded or segregated, recognizing their agency and interaction in urban life. Promoting an ethic of responsibility and respect towards animals.",
+            "grafico": "https://drive.google.com/file/d/1DasVvGxoxGpA8IqNA2F0MsyqUZWhmfYE/view?usp=drive_link",
+            "referencias": [
+                "[1] ABUSAADA H, ELSHATER A. Building Sustainable Habitats for Free-Roaming Cats in Public Spaces: A Systematic Literature Review[J/OL]. Journal of Applied Animal Welfare Science, 2023, 26(4): 582-595. https://doi.org/10.1080/10888705.2021.2014840.",
+                "[2] INSTONE L, SWEENEY J. The trouble with dogs: ‘animaling’ public space in the Australian city[J/OL]. Continuum, 2014, 28(6): 774-786. https://doi.org/10.1080/10304312.2014.966404.",
+                "[3] CAI H, DUAN W. Changing Perceptions and Uses of “Companion Animal” Public and Pseudo-Public Spaces in Cities during COVID-19 Pandemic: The Case of Beijing[J/OL]. Land, 2022, 11(9): 1475. https://doi.org/10.3390/land11091475."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Urban wildlife behavior",
+                    "Greenway corridors",
+                    "Street tree biodiversity",
+                    "Wastelands for urban wildlife",
+                    "Tiny forest",
+                    "Cemetery Biodiversity Conservation"
+                ],
+                "linkdown": [
+                    "Creation of artificial microhabitats",
+                    "Wildlife crossings",
+                    "Reducing Wildlife-Vehicle Collisions",
+                    "Vegetation for noise attenuation"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Pets respond strongly to human behavior and feeding, while only slightly affecting surrounding animals and plants."
+            ]
+        },
+        {
+            "id": "Wildlife crossings",
+            "numero": 29,
+            "escala": "Meso",
+            "contexto": "Road",
+            "problema": "Rapid urbanization has fragmented ecosystems, disrupting migration, feeding, and breeding cycles. This fragmentation also causes collisions along natural migratory routes. Furthermore, the resulting isolation can lead to the extinction of non-human species.",
+            "solucion": "Wildlife crossings such as overpasses and green bridges facilitate habitat connectivity fractured by roads and urban barriers. Ecological infrastructure allows safe passage for myriad migrating species to access fragmented territory and preserves genetic diversity. Benefiting biodiversity conservation, integrating natural design into transportation networks helps prevent vehicular collisions involving local fauna.",
+            "grafico": "https://drive.google.com/file/d/17AaqaNvVpFvnt1CTFRMvjOqWc7GvfprY/view?usp=drive_link",
+            "referencias": [
+                "[1] Burke, A., & Mansouri, T. M. A. (2019). What do we have in common in the landscape? Manzar Scientific Journal, 11(49). https://doi.org/10.22034/manzar.2019.99174.",
+                "[2] KOWALSKA-KOCZWARA A, NERING K. Wildlife crossings and rules for their design[C/OL]//PROCEEDINGS OF THE 15TH INTERNATIONAL CONFERENCE ON X-RAY MICROSCOPY – XRM2022. Hsinchu, Taiwan, 2023: 070022. http://aip.scitation.org/doi/abs/10.1063/5.0171749."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Urban space for human-animal"
+                ],
+                "linkdown": [
+                    "Reducing Wildlife-Vehicle Collisions",
+                    "Street tree biodiversity"
+                ]
+            },
+            "urban_ecology_principles": []
+        },
+        {
+            "id": "Street tree biodiversity",
+            "numero": 21,
+            "escala": "Meso",
+            "contexto": "street",
+            "problema": "The urban tree canopy has diminished due to urbanization, which contradicts the cooling needs of cities currently affected by global warming. Vegetative cover alters the energy balance of surfaces, while the city's tree structure sequesters part of the produced CO2, purifies the air and water, and improves the microclimate. Moreover, street trees are a crucial component of urban green spaces that positively impact human well-being and mental health while simultaneously providing habitat for urban wildlife. The decrease in tree species diversity and the homogenization of often non-native tree species in streets also reduces the variety of animals and fungi coexisting with trees, further exacerbating city issues.",
+            "solucion": "Therefore, as a strategy to improve and maintain urban wildlife, it is recommended to conserve and increase the number of different tree species, ensuring that the highest proportion corresponds to native species. Native trees are more compatible with the species coexisting with them in the city and better support ecosystem functions. The diversity of trees will be proportional to the diversity of species inhabiting them. Moreover, native trees contribute more effectively to reducing the urban heat island effect and significantly improve the mental health of residents.",
+            "grafico": "https://drive.google.com/file/d/1sUEYeWat0xQfGKHljJIjxVSFjtVlzg9M/view?usp=drive_link",
+            "referencias": [
+                "[1] LIU J, SLIK F. Are street trees friendly to biodiversity?[J/OL]. Landscape and Urban Planning, 2022, 218: 104304. https://doi.org/10.1016/j.landurbplan.2021.104304.",
+                "[2] RENDON P, LOVE N, PAWLAK C, et al. Street tree diversity and urban heat[J/OL]. Urban Forestry & Urban Greening, 2024, 91: 128180. https://doi.org/10.1016/j.ufug.2023.128180.",
+                "[3] MARSELLE M R, BOWLER D E, WATZEMA J, et al. Urban street tree biodiversity and antidepressant prescriptions[J/OL]. Scientific Reports, 2020, 10(1): 22445. https://doi.org/10.1038/s41598-020-79924-5."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Greenway corridors",
+                    "Wildlife crossings"
+                ],
+                "linkdown": [
+                    "Native plants for species diversity",
+                    "Strategic placement of resilient trees",
+                    "Permeable surfaces",
+                    "Sodium vapor lamps",
+                    "Light sensors",
+                    "Shielded luminaires",
+                    "Rain Gardens",
+                    "Reducing Wildlife-Vehicle Collisions",
+                    "Animal feeding in urban environments",
+                    "Urban space for human-animal",
+                    "Vegetation for noise attenuation"
+                ]
+            },
+            "urban_ecology_principles": [
+                "Trees cool air by shading wall, sidewalk and street, by transpiring water, and by accelerating airflow between tree crown and wall."
+            ]
+        },
+        {
+            "id": "Reducing Wildlife-Vehicle Collisions",
+            "numero": 43,
+            "escala": "Macro",
+            "contexto": "region",
+            "problema": "Roads, highways and railways primarily act as physical and biological barriers, fragmenting and dividing animal habitat. They obstruct migratory movements and daily wildlife crossings, isolating previously connected populations and reducing gene flow between them. This can negatively impact genetic diversity and viability of affected populations. Additionally, infrastructure construction leads to direct destruction and alteration of habitats by splitting ecosystems that previously existed as continuous areas. Vehicular traffic on roads and highways directly causes wildlife mortality from roadkill incidents. For some threatened species, roadkill mortality rates may be high enough to seriously jeopardize population persistence. Pollutant emissions including noise, exhaust fumes and increased dust levels also degrade habitat quality near transport routes, negatively affecting wild communities. Intensive herbicide use along road and railway margins can substantially reduce availability of wildflowers, impacting groups dependent on this floral resource such as pollinators. Artificial night lighting from traffic and power lines disorients nocturnal species, increasing their risk of perishing from roadkill when attempting to cross roads.",
+            "solucion": "To reduce wildlife-vehicle collisions and mitigate the environmental impact of transport infrastructure, structural and non-structural measures are recommended. Structural measures include wildlife crossings such as bridges, crossing overhead cables, tunnels, and culverts adapted to target species, allowing their safe passage while avoiding direct access to roads. Installation of guide fences and barriers to steer animals towards safe crossings is also useful. Low-cost non-structural measures include warning signage at crossing zones, speed humps, speed limit enforcement, driver education campaigns to raise awareness, use of odor and ultrasonic repellents, and nighttime lighting at crossing points. Promoting habitat connectivity via wildlife corridors and identifying roadkill hotspots to focus mitigation actions there is equally important. Monitoring effectiveness of these measures before and after implementation allows evaluating their outcomes. Proper management of roadside vegetation can also benefit biodiversity by providing substitute habitats. Recommendations include favoring species attractive to pollinators, limiting herbicide use, and allowing some natural succession.",
+            "grafico": "https://drive.google.com/file/d/1JR7V_4bsEEo8zW-noqjCvzOsb6qMwsx0/view?usp=drive_link",
+            "referencias": [
+                "[1] KENT E, SCHWARTZ A L W, PERKINS S E. Life in the fast lane: roadkill risk along an urban–rural gradient[J/OL]. Journal of Urban Ecology, 2021, 7(1): juaa039. https://doi.org/10.1093/jue/juaa039.",
+                "[2] GLISTA D J, DEVAULT T L, DEWOODY J A. A review of mitigation measures for reducing wildlife mortality on roadways[J/OL]. Landscape and Urban Planning, 2009, 91(1): 1-7. https://doi.org/10.1016/j.landurbplan.2008.11.001.",
+                "[3] TWERD L, SOBIERAJ-BETLIŃSKA A, SZEFER P. Roads, railways, and power lines: Are they crucial for bees in urban woodlands?[J/OL]. Urban Forestry & Urban Greening, 2021, 61: 127120. https://doi.org/10.1016/j.ufug.2021.127120.",
+                "[4] BARBOSA P, SCHUMAKER N H, BRANDON K R, et al. Simulating the consequences of roads for wildlife population dynamics[J/OL]. Landscape and Urban Planning, 2020, 193: 103672. https://doi.org/10.1016/j.landurbplan.2019.103672."
+            ],
+            "conexiones": {
+                "linkUp": [
+                    "Wildlife crossings",
+                    "Street tree biodiversity"
+                ],
+                "linkdown": []
+            },
+            "urban_ecology_principles": [
+                "Streets and roads are barriers against, and conduits for, animal movement, in both cases with more traffic strongly decreasing movement rate."
+            ]
+        }
+    ]
+}
